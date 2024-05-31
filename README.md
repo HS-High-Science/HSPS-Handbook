@@ -4,9 +4,9 @@
 
 ***
 
-| CLASSIFIED                                                                                                      |
-|-----------------------------------------------------------------------------------------------------------------|
-| This information is designated only for Security Guards' use. <br/>Avoid reading without HS administration approval. |
+| CLASSIFIED                                                                                                                      |
+|---------------------------------------------------------------------------------------------------------------------------------|
+| This information is designated only for Security Guards' use.<br/> Sharing the contents of the handbook is strictly classified. |
 
 ***
 
