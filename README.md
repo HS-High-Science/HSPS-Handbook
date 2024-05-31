@@ -1,10 +1,11 @@
 # High Science Private Security
 
+
 ## HSPS Handbook
 
 ***
 
-| CLASSIFIED                                                                                                                      |
+| <span style="color:red"> CLASSIFIED</span>                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------|
 | This information is designated only for Security Guards' use.<br/> Sharing the contents of the handbook is strictly classified. |
 
