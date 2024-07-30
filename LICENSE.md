@@ -1,4 +1,2 @@
-Copyright (c) 2024, High Science Private Security
-
-Redistribution of the contents that this license protects are strictly forbidden.
-Copies (A.K.A. Forks) of the content that this license protects are permitted for the sole purpose of making changes to the original work. Please read CONTRIBUTING.md for more information.
+HSPS Handbook © 2024 by High Science Private Security is licensed under CC BY-NC-ND 4.0. 
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
