@@ -7,7 +7,7 @@
 
 | <span style="color:red"> CLASSIFIED</span>                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------|
-| This information is designated only for Security Guards' use.<br/> Sharing the contents of the handbook is strictly classified. |
+| This information is designated only for Security Guards' use.<br/> Sharing the contents of the handbook is strictly prohibited. |
 
 ***
 
@@ -43,6 +43,6 @@
 #### Section 4 - Miscellaneous
 [Section 4.1 - Sub-Divisions](Handbook/Section%204%20-%20Miscellaneous/4.1%20Subdivisions.md)
 
-[Section 4.1 - Security Protocols](Handbook/Section%204%20-%20Miscellaneous/4.2%20Security%20Protocols.md)
+[Section 4.2 - Security Protocols](Handbook/Section%204%20-%20Miscellaneous/4.2%20Security%20Protocols.md)
 
-[Section 4.1 - Private Server Regulations](Handbook/Section%204%20-%20Miscellaneous/4.3%20Private%20Server%20Regulations.md)
+[Section 4.3 - Private Server Regulations](Handbook/Section%204%20-%20Miscellaneous/4.3%20Private%20Server%20Regulations.md)
