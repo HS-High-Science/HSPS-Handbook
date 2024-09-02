@@ -15,6 +15,7 @@ Members of HSPS must show a high level of professionalism while on-duty. This me
 - Make unnecessary comments outside of team chat
 - Dance in public areas 
 - Show any immaturity in public areas
+- When off duty , you must maintain the professional standards that been set, to keep an example. This means, you don't have to use grammar, just don't be stupid.
 
 Under no circumstances are Security Guards allowed to act toxic towards any other Employee, Staff Member, or Chaos Forces Member (Saying: "ez", "L", "bozo", etc. or humping corpses). This behavior is seen as unprofessional and gives HSPS a bad look. This kind of toxicity will not be tolerated and will be met with strict consequences.
 
