@@ -4,7 +4,7 @@
 - All HSPS activities and communications are subject to strict classification measures. This encompasses all communication transmitted within the HSPS Discord, exchanges within team chat in-game, conversations held in HSPS voice channels, and any information about security events.
 
 ### Rule 2: Follow the Chain of Command
-- It is required that all Security Personnel obey orders from those who are ranked higher than them in the Chain of Command. It should be noted that an order is different from a request. For example, if a Senior Guard requests help from an Officer in protecting the FFD, then the Officer should diligently respond to the request. Should a guard believe that an order given violates an HS/HSPS rule, or is otherwise wrongful, the order must still be obeyed. Still, it's 
+- It is required that all Security Personnel obey orders from those who are ranked higher than them in the Chain of Command. It should be noted that an order is different from a request. For example, if a Guardsman requests help from an Officer in protecting the FFD, then the Officer should diligently respond to the request. Should a guard believe that an order given violates an HS/HSPS rule, or is otherwise wrongful, the order must still be obeyed. Still, it's 
 **strongly urged** to gather proof and report the order to a member of Pre-Command or above. Following an order that violates a rule will **will _not_** result in disciplinary action against those who follow it. This is to prevent you from being punished for insubordination. Furthermore, refrain from mini-modding other guards. Deliberately scrutinizing the actions of others, assuming an HR function, or acting as if you have authority you do not have is **frowned upon**. Additionally, you should not be mini-modding/assuming a moderator function when you are not one. An example of this would be telling CF to use team-chat.
 
 ### Rule 3: Use Grammar.
@@ -15,6 +15,7 @@ Members of HSPS must show a high level of professionalism while on-duty. This me
 - Make unnecessary comments outside of team chat
 - Dance in public areas 
 - Show any immaturity in public areas
+- When off duty , you must maintain the professional standards that been set, to keep an example. This means, you don't have to use grammar, just don't be stupid.
 
 Under no circumstances are Security Guards allowed to act toxic towards any other Employee, Staff Member, or Chaos Forces Member (Saying: "ez", "L", "bozo", etc. or humping corpses). This behavior is seen as unprofessional and gives HSPS a bad look. This kind of toxicity will not be tolerated and will be met with strict consequences.
 
