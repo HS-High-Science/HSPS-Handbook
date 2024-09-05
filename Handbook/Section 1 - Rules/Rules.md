@@ -36,4 +36,4 @@ Maliciously trying to attempt to find loopholes within the rules will result in 
 This is not to be mistaken for misunderstanding the rules. It is blatantly obvious if a misunderstanding is international or not.
 
 ### Rule 8: Only go on duty on PC.
-- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to it having their own limitations, do not go on duties while on either mobile or console.
+- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to it having their own limitations.
