@@ -34,3 +34,6 @@ You as a member of HSPS are representing not just yourself but HSPS as a whole. 
 Rules against loopholes are often ridiculed, but it is a different way of saying “Don’t abuse mistakes made when the guidelines were written.”. An example of this is if it was written that KoS is allowed if the core is above 80.000K. Obviously they meant 80,000K, not 80, and you should not abuse the fact they used a period instead of a comma. Instead, you should report this mistake, so that those who are not as mature as yourself cannot abuse the rule.
 Maliciously trying to attempt to find loopholes within the rules will result in disciplinary action. 
 This is not to be mistaken for misunderstanding the rules. It is blatantly obvious if a misunderstanding is international or not.
+
+### Rule 8: Only go on duty on PC.
+- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to it having their own limitations.
