@@ -5,10 +5,10 @@
 
 ### Rule 2: Follow the Chain of Command
 - It is required that all Security Personnel obey orders from those who are ranked higher than them in the Chain of Command. It should be noted that an order is different from a request. For example, if a Guardsman requests help from an Officer in protecting the FFD, then the Officer should diligently respond to the request. Should a guard believe that an order given violates an HS/HSPS rule, or is otherwise wrongful, the order must still be obeyed. Still, it's 
-**strongly urged** to gather proof and report the order to a member of Pre-Command or above. Following an order that violates a rule will **will _not_** result in disciplinary action against those who follow it. This is to prevent you from being punished for insubordination. Furthermore, refrain from mini-modding other guards. Deliberately scrutinizing the actions of others, assuming an HR function, or acting as if you have authority you do not have is **frowned upon**. Additionally, you should not be mini-modding/assuming a moderator function when you are not one. An example of this would be telling CF to use team-chat.
+**strongly urged** to gather proof and report the order to a member of Pre-Command or above. Following an order that violates a rule **will _not_** result in disciplinary action against those who follow it. This is to prevent you from being punished for insubordination. Furthermore, refrain from mini-modding other guards. Deliberately scrutinizing the actions of others, assuming an HR function, or acting as if you have authority you do not have is **frowned upon**. Additionally, you should not be mini-modding/assuming a moderator function when you are not one. An example of this would be telling CF to use team-chat.
 
 ### Rule 3: Use Grammar.
-In public chat, while in-game, adherence to proper grammar is REQUIRED at all times while on duty. The requirement for full grammar usage is exempted in Discord channels and while speaking in team chat. 
+In public chat, while in-game, adherence to proper grammar, capitalization and punctuation is REQUIRED at all times while on duty. The requirement for full grammar usage is exempted in Discord channels and while speaking in team chat. 
 
 ### Rule 4: Act Professional
 Members of HSPS must show a high level of professionalism while on-duty. This means you are not allowed to: 
@@ -27,7 +27,7 @@ You as a member of HSPS are representing not just yourself but HSPS as a whole. 
 
 
 ### Rule 6: No Disrespect
-- HSPS operates under a structured hierarchy of ranks. However, a person’s rank does not warrant disrespect towards fellow members. Instructors are expected to give the same level of respect to a Recruit as a Recruit would to them. **Every member is obligated to treat others with respect, regardless of their rank**. This principle extends beyond internal HSPS interactions. Any form of aggression or disrespect towards other individuals, or groups of people, whether in or outside of HSPS, will not be tolerated. Mutual respect and being the better person is expected out of every member of HSPS.
+- HSPS operates under a structured hierarchy of ranks. However, a person’s rank does not warrant disrespect towards fellow members. Instructors are expected to give the same level of respect to a Cadet as a Cadet would to them. **Every member is obligated to treat others with respect, regardless of their rank**. This principle extends beyond internal HSPS interactions. Any form of aggression or disrespect towards other individuals, or groups of people, whether in or outside of HSPS, will not be tolerated. Mutual respect and being the better person is expected out of every member of HSPS.
 
 ### Rule 7: No Loopholes/Bending the Rules
 - We are aware that certain individuals may attempt to exploit loopholes or “gray areas” in the rules, in an attempt to circumvent regulation. Such behavior will not be condoned. Swift and severe consequences will be administered to those found attempting to manipulate the rules for their own personal gain.
