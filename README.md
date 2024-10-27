@@ -13,6 +13,9 @@
 
 ### Table of Contents
 
+#### Uniform Text
+[Uniform Text](Handbook/Handbook.md)
+
 #### Section 1 - Rules
 [Section 1.1 - Rules](Handbook/Section%201%20-%20Rules/Rules.md)
 
