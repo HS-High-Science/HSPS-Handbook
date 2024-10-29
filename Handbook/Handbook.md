@@ -304,7 +304,7 @@ Warnings are given out on a case-by-case basis, but these are the situations in 
 - An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they stop you.
   - Actions that are considered as interference: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (Review 3.5)
 - An employee is blocking the controls in such a way that others are unable to interact with them at all, no matter the employee's avatar.
-  - You must warn an employee and give them **10** seconds to back away from the controls.
+  - You must warn an employee to back away from the controls. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
 - An employee is in a restricted area.
   - If it's **Code Green or Blue**, you must give an employee at least 1 warning and 15 seconds to leave the area.
   - If it's **Code Orange, Red or Black**, you are permitted to terminate the trespassing employee on sight (without warnings).
