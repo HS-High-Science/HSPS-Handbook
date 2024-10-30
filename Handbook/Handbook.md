@@ -199,7 +199,7 @@ There are two ways of getting your strikes removed:
 - 1: Objecting to a Strike 
   - If you think a strike that was issued is unfair, you are able to object to it immediately after it has been issued. Strike objections have a limit, meaning, if you don’t submit your objection within seven days of it being issued, you will not be able to object to it.
 - 2: Getting a Strike Reviewed
-  - If you believe that your behavior has improved since a strike has been issued, you are able to file a strike review at least 2 months (8 weeks) after it was issued. Here, Pre-Command will decide whether or not your strike should be lifted. If your appeal is denied, you will have to wait 4 months (16 weeks) to request another review.
+  - If you believe that your behavior has improved since a strike has been issued, you are able to file a strike review at least 4 months (16 weeks) after it was issued. Here, Pre-Command will decide whether or not your strike should be lifted.
 
 ### Suspensions
 Suspensions are generally issued when someone breaches HS/HSPS rules or guidelines, with multiple past incidents. Suspensions are heavy punishments and are taken into consideration when promoting people.
