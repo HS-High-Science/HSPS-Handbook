@@ -170,7 +170,7 @@ Here at HSPS, we have a disciplinary system that all members of Pre-Command+ sti
 Commendations are issued at the discretion of Officers and above when something you did was considered exemplary. Commendations are only issued when such behavior is witnessed and they do not require hard evidence. Commendations get removed three months after they have been issued.
 
 ### Reprimands
-Reprimands are issued at the discretion of Officers and above when something you did was considered incorrect, negligent, or generally frowned upon. You don’t have to specifically get a reprimand for breaking rules, but rather your general actions. Reprimands get removed six months after they have been issued.
+Reprimands are issued at the discretion of Officers and above when something you did was considered incorrect, negligent, or generally frowned upon. You don’t have to specifically get a reprimand for breaking rules, but rather your general actions. Reprimands get removed three months after they have been issued.
 
 ### Strikes
 Strikes are issued at the discretion of Junior Instructors and above when something you did breached HSPS or High Science rules. Strikes are the intermediate version of punishments and stick out during promotions.
@@ -297,7 +297,8 @@ Warnings are given out on a case-by-case basis, but these are the situations in 
   - If the employee ignores the warning, you may terminate them after 5 seconds.
 - An employee is attempting to destabilize the ECFR
   - Destabilizing by raising the temperature above 70,000 kelvin or below 30,000 kelvin.
-  - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, and trying to increase pump motor strain to dangerous levels.
+  - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, relief controls^ and trying to increase pump motor strain to dangerous levels.
+  - ^At any time of operations you can take control of the relief valves if either of the buildups is above 40% and keep controlling them until both buildup levels are below 20%. During that time you can also warn employees putting either of the valves to 1 or 0. **Note:** Barium buildup level is to be ignored during operations.
   - In situations where the temperature is above 80,000 kelvin or below 20,000 kelvin, warnings are not required and KoS is allowed, if a control is tampered with that conflicts with your objective.
 - An employee is messing with Emergency Cooling Controls
   - Attempting to turn off the E-coolant pump power.
