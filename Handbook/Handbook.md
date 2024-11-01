@@ -63,7 +63,7 @@ When you are not on duty, you are not expected to follow any of the above rules 
 These regulations will go over rules for HS/HSPS discord servers. These guidelines don’t only apply to text channels, but to voice channels as well. Please have Rule 4 in mind before you have any conversations.
 
 ### When On Duty
-- You are now requried to join the On-duty VC(s) as soon as you get on team, as it eases communications for those who do decide to talk in VC
+- You are now required to join the On-duty VC(s) as soon as you get on team, as it eases communications for those who do decide to talk in VC
   - You are not required to use a microphone. Simply being in a VC with everyone else is easier for everyone who is using a microphone.
 - Should you be heavily outnumbered or outgunned, you are permitted to request backup in the #backup-request channel. (Reference 3.6)
   - When requesting backup, please supply your Roblox profile link so people can join through it, and make sure your joins are enabled for everyone.
@@ -221,13 +221,13 @@ __Training Attendance__ - Once a Month.
 As we have this system in place, we have certain rules for our guards to follow.
 
 #### Quota Rule 1: AFKing on shift is not allowed
-We do not permit guards going AFK during their shift. If you need to go AFK for some peroid of time, please head to a security area or security spawn. Furthermore, if you need to be AFK for an extended period of time, please end your shift and get the off team to deal with your situation.
+We do not permit guards going AFK during their shift. If you need to go AFK for some period of time, please head to a security area or security spawn. Furthermore, if you need to be AFK for an extended period of time, please end your shift and get the off team to deal with your situation.
 
 #### Quota Rule 2: You are allowed to log up to 8 hours of quota per day
 We care about your health and don’t support excessive playtime. Take regular breaks and monitor your health while on duty. If you feel ill, we recommend not getting on at all.
 
 #### Leave Of Absence:
-While on Leave of Absence, you are not permitted to attend any events that may occur while your LOA is active. We have this system in place for guards who need a break as we care about your health and any other reasons. If you fail to adhere to this, you may be subject to displinary action.
+While on Leave of Absence, you are not permitted to attend any events that may occur while your LOA is active. We have this system in place for guards who need a break as we care about your health and any other reasons. If you fail to adhere to this, you may be subject to disciplinary action.
 
 # Section 3 - Operations
 
@@ -387,7 +387,7 @@ As HSPS grew bigger, it was obvious that some guards might have a high level of 
 **MRT** is an “elite HS unit whose mission is to protect strategic sites from external and internal threats.” They have the best HSPS guards in their ranks, allowing them to cope with any challenge that comes their way. MRT has rule bypasses to reach the best combat result.
 
 ### Joining MRT
-**MRT** is a subdivision within HSPS, which is currently invite only with guards having to prove themself being capable of joining MRT. It varies on skills and leadership qualities you may have, that is beneficial to the subdivision. There will be certain requirements within aswell to try to recieve a invite to MRT. 
+**MRT** is a subdivision within HSPS, which is currently invite only with guards having to prove themself being capable of joining MRT. It varies on skills and leadership qualities you may have, that is beneficial to the subdivision. There will be certain requirements within as well to try to receive an invite to MRT. 
 
 ## 4.2 Security Protocols
 
