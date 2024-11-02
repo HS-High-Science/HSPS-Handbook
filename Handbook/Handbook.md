@@ -214,10 +214,10 @@ Terminations are the heaviest version of punishments. Before a direct terminatio
 As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence.
 
 ### Current Quota
-(As of August 31st, 2024)
-__In-Game Activity (Shifts)__ - 1 hour (60 mins) per month.
-**OR**
-__Training Attendance__ - Once a Month.
+(As of Nov. 2nd, 2024)
+__In-Game Activity (Shifts)__ - 1 hour (60 mins) per 2 weeks
+**AND**
+__Training Attendance__ - 1 time per 2 weeks.
 
 ### Quota Rules
 As we have this system in place, we have certain rules for our guards to follow.
@@ -227,6 +227,9 @@ We do not permit guards going AFK during their shift. If you need to go AFK for 
 
 #### Quota Rule 2: You are allowed to log up to 8 hours of quota per day
 We care about your health and don’t support excessive playtime. Take regular breaks and monitor your health while on duty. If you feel ill, we recommend not getting on at all.
+
+#### Quota Rule 3: Logging shifts on private servers is not allowed
+In case of manual shift logging system being in place, you are not allowed to log shifts on private servers. Shift logging is allowed only on public servers and special events if permitted by HSPS leadership.
 
 #### Leave Of Absence:
 While on Leave of Absence, you are not permitted to attend any events that may occur while your LOA is active. We have this system in place for guards who need a break as we care about your health and any other reasons. If you fail to adhere to this, you may be subject to disciplinary action.
@@ -421,6 +424,18 @@ Fortitude regulations are as follows;
 - All guards can put on any armor available to them.
 - Fortitude may be active for a maximum of 10 minutes, or until the region is secure for at least 5 minutes.
 - There is a cooldown of 30 minutes from when the protocol gets lifted.
+
+### Precommand+ Protection
+**PC+ Protection** can be issued by a member of Precommand+. HSPS personnel should not privately request protection initiation and must prioritize their regular duties.
+Protection statuses:
+- Roam: All guards are free to patrol and resume their regular duties. They should not provide protection to anyone.
+- Optional: A maximum of one guard per PC+ member is allowed. HSPS personnel are not obligated to protect the individual.
+- Protect: Up to two guards must protect PC+ members at all times until instructed to switch to Roam or Optional status.
+*If there are fueling Warhead, FFD in E-mode, Pre-Meltdown or Pre-Stall, or 1+ CF on the server, HSPS personnel will automatically be in Roam and must respond to events immediately.*
+During protection:
+- No employees should approach the Pre-command+ member (later referred to as VIP), shine lights at VIP or any other HSPS personnel. A single warning to back off is permitted; if the warning is ignored, you are authorized to terminate the individual.
+- Employees who jump onto HSPS personnel or VIPs are to be terminated on sight.
+- It is highly recommended to always remain close to your VIP, ideally forming a wedge or a VIP box around them (you can look up what a VIP box is for more information).
 
 ## 4.3 Private Server Regulations
 
