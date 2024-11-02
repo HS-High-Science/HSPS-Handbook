@@ -40,6 +40,8 @@ This is not to be mistaken for misunderstanding the rules. It is blatantly obvio
 ### Rule 8: Only go on duty on PC.
 - You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations.
 
+It is important to note that HSPS Handbook inherits all of the general High Science rules.
+
 # Section 2 - Guidelines
 
 ## 2.1 In-game communications
