@@ -214,7 +214,7 @@ Terminations are the heaviest version of punishments. Before a direct terminatio
 As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence.
 
 ### Current Quota
-(As of Nov. 2nd, 2024)
+(As of Nov. 3rd, 2024)
 __In-Game Activity (Shifts)__ - 1 hour (60 mins) per 2 weeks
 **AND**
 __Training Attendance__ - 1 time per 2 weeks.
