@@ -26,5 +26,5 @@ This repository uses special markdown syntax that helps style the resulting web 
 
 ### Editing process
 
-If you wish to suggest changes to the handbook, feel free to fork this repository, edit any files as you please and create a merge request into this repository's staging branch. After you do so, your MR will be reviewed by members of PC and might be merged into master later on.
+If you wish to suggest changes to the handbook, feel free to fork this repository, edit any files as you please and create a pull request into this repository's staging branch. After you do so, your PR will be reviewed by members of PC and might be merged into master later on.
 If you are unsure how to fork a repository, please ask one of the HSPS developers for help.
