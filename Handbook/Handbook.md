@@ -215,8 +215,8 @@ As a member of HSPS, you are expected to be at least somewhat active within HSPS
 
 ### Current Quota
 (As of Nov. 3rd, 2024)
-__In-Game Activity (Shifts)__ - 1 hour (60 mins) per 2 weeks
-**AND**
+__In-Game Activity (Shifts)__ - 2 hours (120 mins) per 2 weeks
+**OR**
 __Training Attendance__ - 1 time per 2 weeks.
 
 ### Quota Rules
