@@ -365,7 +365,7 @@ You are **not**, under any circumstances, allowed to;
 
 You are allowed to warn employees if they attempt to grief the duties of the Reactor Operators. You may give warnings whenever they attempt to interfere with the current task, or if they are preventing/impeding the efforts of Reactor Operators to reach current task parameters.
 
-After 6 AM you are allowed to aid the reactor shutdown process for Task 5 if all other tasks are complete/the Reactor Operators vote to.
+After 6 AM you are allowed to aid the reactor shutdown process for Task 5 if all other tasks are completed (failed tasks count as completed) or if the Reactor Operators vote to.
 
 You must warn an employee a total of 3 Times before terminating them.
 - If an employee has been warned, and the task they were warned in was completed, the warnings carry over to the next task.
