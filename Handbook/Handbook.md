@@ -360,7 +360,7 @@ You are **not**, under any circumstances, allowed to;
 ## 3.5 R.O. Cooperation
 ### Requirements
 - You have clarified with the Reactor Operators what task they are trying to complete. 
-- At least 50% of the RO team should confirm that they are going to complete the task. (They may also specify how they plan to complete the task)
+- At least 50% of the RO team confirmed that they are trying to complete the task. (They may also specify how they plan to complete the task)
   - If 50% of the Reactor Operators confirm one task and the other 50% of the Reactor Operators confirm a different task, you are not allowed to do R.O. Cooperation.
 
 You are allowed to warn employees if they attempt to grief the duties of the Reactor Operators. You may give warnings whenever they attempt to interfere with the current task, or if they are preventing/impeding the efforts of Reactor Operators to reach current task parameters.
