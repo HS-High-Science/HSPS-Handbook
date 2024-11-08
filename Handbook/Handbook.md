@@ -232,6 +232,9 @@ In case of manual shift logging system being in place, you are not allowed to lo
 #### Leave Of Absence:
 While on Leave of Absence, you are exempt from the quota and you are allowed to attend any events that may occur while your LOA is active, however we advise you to take a break from the game while your LoA is ongoing as your health always takes priority.
 
+#### Manual shift logging:
+When manual shift logging is in place, you will have to manually start your shift using /shift start and end it using /shift end in #shift-commands. To end your shift you need to attach image evidence. Valid evidence is any screenshot of you in the Security team showing your entire Roblox client taken during the shift.
+
 # Section 3 - Operations
 
 ## 3.1 Facility Codes
@@ -387,14 +390,16 @@ OR
 # Section 4 - Miscellaneous
 
 ## 4.1 MRT
+Note: MRT was officially disbanded on 2024-10-05.
+
 As HSPS grew bigger, it was obvious that some guards might have a high level of specialization that should be recognized, thus the subdivision MRT (Militarized Response Team) was formed.
 
 ### Subdivision List
 #### MRT (Militarized Response Team)
-**MRT** is an “elite HS unit whose mission is to protect strategic sites from external and internal threats.” They have the best HSPS guards in their ranks, allowing them to cope with any challenge that comes their way. MRT has rule bypasses to reach the best combat result.
+**MRT** was an “elite HS unit whose mission is to protect strategic sites from external and internal threats.” They had the best HSPS guards in their ranks, allowing them to cope with any challenge that came their way. MRT had rule bypasses to reach the best combat result.
 
 ### Joining MRT
-**MRT** is a subdivision within HSPS, which is currently invite only with guards having to prove themself being capable of joining MRT. It varies on skills and leadership qualities you may have, that is beneficial to the subdivision. There will be certain requirements within as well to try to receive an invite to MRT. 
+**MRT** was a subdivision within HSPS, which was invite only with guards having to prove themself being capable of joining MRT. It varied on skills and leadership qualities guards may have had, that was beneficial to the subdivision. There were certain requirements within as well to try to receive an invite to MRT. 
 
 ## 4.2 Security Protocols
 
