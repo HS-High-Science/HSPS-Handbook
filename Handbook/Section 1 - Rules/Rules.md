@@ -37,8 +37,3 @@ This is not to be mistaken for misunderstanding the rules.
 
 ### Rule 8: Only go on duty on PC.
 - You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations.
-
-### Rule 9: Do not use avatars that give you superiority in combat.
-- It is forbidden to use avatars that give you an unfair advantage in combat. This includes packages that alter your hitboxes or visually obstruct parts of your avatar etc.
-
-It is important to note that HSPS Handbook inherits all of the general High Science rules.
