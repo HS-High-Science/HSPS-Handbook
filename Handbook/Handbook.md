@@ -266,7 +266,7 @@ Code Orange is active if:-
 
 -  the computer core is in emergency mode 
 -  the warhead protocol is engaged (after the 1st warhead announcement plays until the warhead is cancelled)
--  the ECFR is outside safe operating temperatures (Above 70,000K, below 30,000K) while online
+-  the ECFR is outside safe operating temperatures (Above 70,000K, below 30,000K)
 
 
 
