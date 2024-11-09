@@ -109,7 +109,7 @@ How to obtain:
 ### Middle Ranks
 
 #### Specialist (SPC)
-Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host HSPS-wide patrols and co-host Cadet Stage 3 Trainings. They are permitted to wear the “Heavy uniform” only during Code Orange and above.
+Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform” only during Code Orange and above.
 How to obtain: 
 - Fulfill the previous requirements 
 - Be an upstanding guard
@@ -118,7 +118,7 @@ How to obtain:
 - Have Active Commendations (Recommended).
 
 #### Senior Specialist (SSPC)
-Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host HSPS-wide patrols and host Cadet Stage 3 Trainings on their own.
+Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host HSPS-wide patrols and host Cadet Stage 3 events on their own.
 How to obtain: 
 - Fulfill the previous requirements 
 - Demonstrate that you can lead others 
