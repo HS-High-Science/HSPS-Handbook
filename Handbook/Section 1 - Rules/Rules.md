@@ -13,6 +13,7 @@
 ### Rule 4: Act Professional.
 Members of HSPS must show a high level of professionalism while on-duty. This means you are not allowed to: 
 - Make unnecessary comments outside of team chat
+- Talk to members of the Chaos Forces team in the global chat
 - Dance in public areas 
 - Show any immaturity in public areas
 - When off duty, you must maintain the professional standards that been set, to keep an example. This means, you don't have to use grammar, just don't be stupid.
