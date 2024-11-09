@@ -209,13 +209,15 @@ Suspensions are generally issued when someone breaches HS/HSPS rules or guidelin
 Terminations are the heaviest version of punishments. Before a direct termination is issued, Pre-Command and above convene to decide if a termination is warranted. You can also get terminated for acquiring 4 strikes on the spot.
 
 ## 2.5 Activity & Quota
-As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence.
+As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence (make sure to read the pinned message).
 
 ### Current Quota
 (As of Nov. 3rd, 2024)
 __In-Game Activity (Shifts)__ - 2 hours (120 mins) per 2 weeks
 **OR**
 __Training Attendance__ - 1 time per 2 weeks.
+
+Quota checks are performed every 2 weeks on Sundays, starting from 2024-11-17.
 
 ### Quota Rules
 As we have this system in place, we have certain rules for our guards to follow.
@@ -233,7 +235,7 @@ In case of manual shift logging system being in place, you are not allowed to lo
 While on Leave of Absence, you are exempt from the quota and you are allowed to attend any events that may occur while your LOA is active, however we advise you to take a break from the game while your LoA is ongoing as your health always takes priority.
 
 #### Manual shift logging:
-When manual shift logging is in place, you will have to manually start your shift using /shift start and end it using /shift end in #shift-commands. To end your shift you need to attach image evidence. Valid evidence is any screenshot of you in the Security team showing your entire Roblox client taken during the shift.
+When manual shift logging is in place, you may manually start your shift using /shift start and end it using /shift end in #shift-commands. To end your shift you need to attach image evidence. Valid evidence is any screenshot of you in the Security team showing your entire Roblox client taken during the shift.
 
 # Section 3 - Operations
 
