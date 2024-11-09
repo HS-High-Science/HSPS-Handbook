@@ -40,11 +40,6 @@ This is not to be mistaken for misunderstanding the rules.
 ### Rule 8: Only go on duty on PC.
 - You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations.
 
-### Rule 9: Do not use avatars that give you superiority in combat.
-- It is forbidden to use avatars that give you an unfair advantage in combat. This includes packages that alter your hitboxes or visually obstruct parts of your avatar etc.
-
-It is important to note that HSPS Handbook inherits all of the general High Science rules.
-
 # Section 2 - Guidelines
 
 ## 2.1 In-game communications
@@ -68,7 +63,7 @@ When you are not on duty, you are not expected to follow any of the above rules 
 These regulations will go over rules for HS/HSPS discord servers. These guidelines don’t only apply to text channels, but to voice channels as well. Please have Rule 4 in mind before you have any conversations.
 
 ### When On Duty
-- You are now required to join the On-duty VC(s) as soon as you get on team, as it eases communications for those who do decide to talk in VC
+- You are required to join the On-duty VC(s) as soon as you get on team (or right before you get on team), as it eases communications for those who do decide to talk in VC
   - You are not required to use a microphone. Simply being in a VC with everyone else is easier for everyone who is using a microphone.
 - Should you be heavily outnumbered or outgunned, you are permitted to request backup in the #backup-request channel. (Reference 3.6)
 
@@ -76,7 +71,7 @@ These regulations will go over rules for HS/HSPS discord servers. These guidelin
 Full grammar does not need to be maintained while off-duty. Feel free to talk to other guards without grammar, but please use common sense.
 
 ## 2.3 Ranks
-We have many ranks within our department. Below they are described in detail, including how the rank is obtained.
+We have many ranks within our department. Below they are described in detail, including how the rank is obtained. The ranks are ordered from lowest to highest in the chain of command. Note that all ranks inherit perks of ranks below them.
 You can also see the respective rank tags in parentheses. These tags are used in the HSPS Discord server.
 
 ### Low Ranks
@@ -92,19 +87,19 @@ How to obtain:
 - Pass Cadet Academy stages 1, 2 and 3.
 
 #### Guardsman (GDM)
-Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced Security” uniform during Code Orange.
+Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced uniform” only during Code Orange and above.
 How to obtain: 
 - Be active and don’t cause trouble
 - 30 Points + 10 In-Game Hours.
 
 #### Senior Guardsman (SG)
-Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earnt this rank. They are permitted to wear the “Riot Security” uniform during Code Orange.
+Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earnt this rank. They are permitted to wear the “Riot uniform” only during Code Orange and above.
 How to obtain: 
 - Fulfill the previous requirements, but step it up a little
 - 70 Points + 40 In-Game Hours.
 
 #### Elite Guardsman (EG)
-Elite Guardsman is the highest low rank in HSPS. If you have reached this rank, you are considered experienced in what you do within HSPS. You are being observed for a possible promotion to Specialist, one of the first MR ranks. Most people will hit a "brick wall" at this rank, and have difficulty progressing. They are permitted to use "REDACTED".
+Elite Guardsman is the highest low rank in HSPS. If you have reached this rank, you are considered experienced in what you do within HSPS. You are being observed for a possible promotion to Specialist, the first MR rank. Most people will hit a "brick wall" at this rank, and have difficulty progressing. This rank's perks are yet to be decided.
 How to obtain:
 - Unknown at this time until further notice. 
 
@@ -112,7 +107,7 @@ How to obtain:
 ### Middle Ranks
 
 #### Specialist (SPC)
-Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host HSPS-wide patrols and co-host Cadet Stage 3 Trainings. They are permitted to wear the “Heavy Security” uniform during Code Orange.
+Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host HSPS-wide patrols and co-host Cadet Stage 3 Trainings. They are permitted to wear the “Heavy uniform” only during Code Orange and above.
 How to obtain: 
 - Fulfill the previous requirements 
 - Be an upstanding guard
@@ -121,7 +116,7 @@ How to obtain:
 - Have Active Commendations (Recommended).
 
 #### Senior Specialist (SSPC)
-Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host HSPS-wide patrols on their own.
+Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host HSPS-wide patrols and host Cadet Stage 3 Trainings on their own.
 How to obtain: 
 - Fulfill the previous requirements 
 - Demonstrate that you can lead others 
@@ -148,7 +143,7 @@ How to obtain:
 Junior Instructors are members of HSPS who have shown that they are competent enough to take on the job of HSPS’s backbone operations. They deal with day-to-day operations within HSPS, host trainings, deal with reports, etc.
 
 #### Instructor (INS)
-Instructors are Junior Instructors who have excelled at their work and have been granted the privilege of holding this rank. They are the most senior obtainable rank in HSPS that can have more than one person. If they say something to you, it is almost guaranteed that they are correct, given their knowledge and experience within HSPS.
+Instructors are former Junior Instructors who have excelled at their work and have been granted the privilege of holding this rank. They are the most senior obtainable rank in HSPS that can have more than one person. If they say something to you, it is almost guaranteed that they are correct, given their knowledge and experience within HSPS.
 
 ### Command
 
@@ -212,7 +207,7 @@ Suspensions are generally issued when someone breaches HS/HSPS rules or guidelin
 Terminations are the heaviest version of punishments. Before a direct termination is issued, Pre-Command and above convene to decide if a termination is warranted. You can also get terminated for acquiring 4 strikes on the spot.
 
 ## 2.5 Activity & Quota
-As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence (make sure to read the pinned message).
+As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence (make sure to read the pinned messages).
 
 ### Current Quota
 (As of Nov. 3rd, 2024)
@@ -226,7 +221,7 @@ Quota checks are performed every 2 weeks on Sundays, starting from 2024-11-17.
 As we have this system in place, we have certain rules for our guards to follow.
 
 #### Quota Rule 1: AFKing on shift is not allowed
-We do not permit guards going AFK during their shift. If you need to go AFK for some period of time, please head to a security area or security spawn. Furthermore, if you need to be AFK for an extended period of time, please end your shift and get the off team to deal with your situation.
+We do not permit guards going AFK during their shift. If you need to go AFK for some period of time, please head to a security area or security spawn. Furthermore, if you need to be AFK for an extended period of time (7 minutes or longer), please end your shift and get the off team to deal with your situation.
 
 #### Quota Rule 2: You are allowed to log up to 8 hours of quota per day
 We care about your health and don’t support excessive playtime. Take regular breaks and monitor your health while on duty. If you feel ill, we recommend not getting on at all.
@@ -243,6 +238,8 @@ When manual shift logging is in place, you may manually start your shift using /
 # Section 3 - Operations
 
 ## 3.1 Facility Codes
+Facility codes help convey the overall threat level and status in a quick and simple manner. This list is ordered from least severe ("lowest") to most severe ("highest"). The most severe code applicable overrides lower codes (for example, if only the requirements for code orange and code red are met, it's just code red).
+
 ### Code Green
 Code Green indicates there is no imminent threat within the facility and the facility is in normal operations. The facility is in code green:
 
@@ -256,7 +253,7 @@ Code Blue means there is a minor threat within the facility that may escalate if
 
 - The FFD terminal or Warhead laptop is hacked.
 
-Code Blue does **not** activate if the Warhead laptop is hacked while Warhead is locked due to being cancelled twice, or if the FFD terminal is hacked while FFD is locked.
+Code Blue is **not** active if the Warhead laptop is hacked while Warhead is locked due to being cancelled twice, or if the FFD terminal is hacked while FFD is locked.
 
 
 
@@ -266,8 +263,8 @@ Code Orange indicates a moderate threat within the facility that needs to be neu
 Code Orange is active if:-
 
 -  the computer core is in emergency mode 
--  the warhead protocol is engaged
--  the ECFR is outside safe operating temperatures (Above 70,000K, below 30,000K)
+-  the warhead protocol is engaged (after the 1st warhead announcement plays until the warhead is cancelled)
+-  the ECFR is outside safe operating temperatures (Above 70,000K, below 30,000K) while online
 
 
 
@@ -293,8 +290,8 @@ Code Black indicates that the facility is in imminent danger of being destroyed.
 
 Code Black is active if:
 
-- The warhead is detonating.
-- FFD is engaged.
+- The warhead is detonating (after the final button was pressed).
+- FFD is engaged (after the final button was pressed).
 - ECFR is in a meltdown.
 
 Your priority here is to attempt to abort FFD (shut down servers) or shut down the ECFR. If these facility conservation options have expired and detonation is inevitable, your priority is to protect the data and evacuate the employees from the facility.
@@ -305,31 +302,32 @@ Warnings are the type of disciplinary action that you issue to employees when th
 ### When Can I Give Warnings?
 Warnings are given out on a case-by-case basis, but these are the situations in which you can give warnings (Non-comprehensive list):
 - An employee is in your face, on your body or just being a general nuisance to you.
-  - If the employee ignores the warning, you may terminate them after 5 seconds.
+  - If the employee ignores the warning, you may terminate them after 5 seconds. If they stop after your warning and then do it again, you may terminate them immediately.
 - An employee is attempting to destabilize the ECFR
-  - Destabilizing by raising the temperature above 70,000 kelvin or below 30,000 kelvin.
-  - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, relief controls^ and trying to increase pump motor strain to dangerous levels.
-  - ^At any time of operations you can take control of the relief valves if either of the buildups is above 40% and keep controlling them until both buildup levels are below 20%. During that time you can also warn employees putting either of the valves to 1 or 0. **Note:** Barium buildup level is to be ignored during operations.
+  - Attempting to destabilize the ECFR is raising the temperature while the temperature is above 70,000 kelvin or lowering it when it's below 30,000 kelvin.
+  - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, exhaust system controls^ and trying to increase pump motor strain to dangerous levels.
+  - ^At any time of operations you can take control of the exhaust system controls if either of the buildups is above 40% and keep controlling them until both buildup levels are below 20%. During that time you can also warn employees putting either of the relief controls to 1 or 0. **Note:** Barium buildup level is to be ignored during operations.
   - In situations where the temperature is above 80,000 kelvin or below 20,000 kelvin, warnings are not required and KoS is allowed, if a control is tampered with that conflicts with your objective.
+  - If there are multiple employees near a control that has been messed with, you may warn the one closest to the control.
 - An employee is messing with Emergency Cooling Controls
   - Attempting to turn off the E-coolant pump power.
-  - Attempting to waste E-coolant if it’s not necessary. Doing this is cause for immediate termination. Reactor Operators may use E-Coolant for faster completion of a task.
-- An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they stop you.
+  - Attempting to waste E-coolant if it’s not necessary. Doing this is cause for immediate termination. Reactor Operators may use E-Coolant for faster completion of a task. Turning the Emergency Cooling switch to on counts as trying to waste E-coolant if it's not necessary.
+- An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they try to stop you.
   - Actions that are considered as interference: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (Review 3.5)
 - An employee is blocking the controls in such a way that others are unable to interact with them at all, no matter the employee's avatar.
-  - You must warn an employee to back away from the controls. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
+  - You must warn an employee to back away from the controls. If they ignore your warning, you may terminate them. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
 - An employee is in a restricted area.
   - If it's **Code Green or Blue**, you must give an employee at least 1 warning and 15 seconds to leave the area.
   - If it's **Code Orange, Red or Black**, you are permitted to terminate the trespassing employee on sight (without warnings).
   - If you are in active combat, you do not have to warn an employee immediately. However, when it is safe, you must take measures to get employees out of the restricted area in accordance with the conditions described above.
-  - **NOTE**: Server room is **not** considered a restricted area.
+  - Areas that are considered restricted are: ventilation system, computer core zone (unless it's code black), warhead zone. **NOTE**: Server room is **not** considered a restricted area.
 
 - An employee is impersonating security.
-  - If an employee is impersonating security by issuing warnings or wearing the uniform, then you may issue them a warning to stop, however if they do not, you may terminate them.
-  - The only exception to this, if the employee is ranked Junior Guardsman+.
+  - If an employee is impersonating security by issuing warnings or wearing a HSPS uniform, then you may issue them a warning to stop, however if they do not stop, you may terminate them.
+  - If the employee is ranked Junior Guardsman or above, you can't give them warnings for impersonating security.
 
 ### When Can I NOT Give Warnings?
-You should **NOT** give warnings for the following circumstances:
+You should **NOT** give warnings for the following actions:
 1. An employee is hacking, glitching, being disrespectful/toxic, or doing any action that would generally require moderation intervention. In those cases, make a report in #report-center
 2. Someone is spamming the controls in a manner that requires said controls to be spammed.
 
@@ -342,8 +340,8 @@ If some employees are intentionally trying to interrupt site operations by messi
 
 ### When can Shift KoS be issued?
 If one of these requirements is met, you are allowed to issue a KoS:
-- Junior Guardsman+ - Employee was terminated 2+ times for destabilizing the core* / trespassing / griefing RO tasks / employee is pretending to be a security guard (wearing a similar uniform and trying to act like security; Exception: The employee is Junior Guardsman+)
-- Senior Guardsman+ - Employee was terminated at least once for destabilizing the core* / trespassing / griefing RO tasks / acting like security
+- Junior Guardsman+ - Employee was terminated 2+ times for destabilizing the core* / trespassing / griefing RO tasks / pretending to be a security guard (wearing a similar uniform or trying to act like security; Exception: The employee is Junior Guardsman+)
+- Senior Guardsman+ - Employee was terminated at least once for destabilizing the core* / trespassing / griefing RO tasks / pretending to be a security guard
 - Deputy Director+ - Can mark anyone as KoS at any time.
 
 Shift KoS should be announced in team chat. After that, it’s active.
@@ -364,16 +362,19 @@ You are **not**, under any circumstances, allowed to;
 6. Speak in the backup request forum threads while playing on the Chaos Forces team. Because of this, people viewing the thread may be confused, thinking you're playing as Security.
 
 ## 3.5 R.O. Cooperation
+At any point you may ask the Reactor Operators for cooperation and confirm it when the requirements below are met.
 ### Requirements
 - You have clarified with the Reactor Operators what task they are trying to complete. 
 - At least 50% of the RO team confirmed that they are trying to complete the task. (They may also specify how they plan to complete the task)
   - If 50% of the Reactor Operators confirm one task and the other 50% of the Reactor Operators confirm a different task, you are not allowed to do R.O. Cooperation.
 
+After confirming the cooperation you should inform the Reactor Operators, for example by saying "Task 3 confirmed.".
+
 You are allowed to warn employees if they attempt to grief the duties of the Reactor Operators. You may give warnings whenever they attempt to interfere with the current task, or if they are preventing/impeding the efforts of Reactor Operators to reach current task parameters.
 
 After 6 AM you are allowed to aid the reactor shutdown process for Task 5 if all other tasks are completed (failed tasks count as completed) or if the Reactor Operators vote to.
 
-You must warn an employee a total of 3 Times before terminating them.
+You must warn an employee a total of 3 times before terminating them.
 - If an employee has been warned, and the task they were warned in was completed, the warnings carry over to the next task.
 - Upon termination, their warnings “Reset”, however you may mark them as KOS when the Shift KoS requirements are met (Shown in Section 3.3)	
 
@@ -413,13 +414,15 @@ As HSPS grew bigger, it was obvious that some guards might have a high level of 
 You can issue White Night when the following requirements are met
 1. The employees attempting to destabilize the reactor have gone out of Security control;
 2. Temperature is outside safe limits (Above 75,000 or below 20,000 kelvin)
+
 White Night regulations are as follows;
 - Notify on-duty security in team chat by saying “White Night has been issued.”
-- You must inform employees that they are required to leave the CR or face termination.
+- You must inform employees that they are required to leave the RCR or face termination.
   - You need to give them 15 seconds to comply with that order.
-- You need to re-inform employees once every 3 minutes that the control room is under lockdown.
+- You need to re-inform employees once every 3 minutes that the reactor control room is under lockdown.
 - The protocol can be active for a maximum of 15 minutes and **must** be lifted within 2 minutes of ECFR reaching safe temperatures (25,000K to 70,000 K)
 - The Coolant Pump Room may also be locked down.
+- Individual employees may be whitelisted. Whitelisted employees can stay in the control room and coolant pump room as long as they don't try to destabilize the reactor in any way.
 
 ### Operation Fortitude
 **Operation Fortitude** can be issued by **Specialist+.**
@@ -442,7 +445,8 @@ Protection statuses:
 - Roam: All guards are free to patrol and resume their regular duties. They should not provide protection to anyone.
 - Optional: A maximum of one guard per PC+ member is allowed. HSPS personnel are not obligated to protect the individual.
 - Protect: Up to two guards must protect PC+ members at all times until instructed to switch to Roam or Optional status.
-*If there are fueling Warhead, FFD in E-mode, Pre-Meltdown or Pre-Stall, or 1+ CF on the server, HSPS personnel will automatically be in Roam and must respond to events immediately.*
+*If it's Code Orange or above or 1+ CF is on the server, HSPS personnel will automatically be in Roam and must respond to events immediately.*
+
 During protection:
 - No employees should approach the Pre-command+ member (later referred to as VIP), shine lights at VIP or any other HSPS personnel. A single warning to back off is permitted; if the warning is ignored, you are authorized to terminate the individual.
 - Employees who jump onto HSPS personnel or VIPs are to be terminated on sight.
