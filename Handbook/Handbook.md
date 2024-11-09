@@ -425,6 +425,10 @@ White Night regulations are as follows;
 - The protocol can be active for a maximum of 15 minutes and **must** be lifted within 2 minutes of ECFR reaching safe temperatures (25,000K to 70,000 K)
 - The Coolant Pump Room may also be locked down.
 - Individual employees may be whitelisted. Whitelisted employees can stay in the control room and coolant pump room as long as they don't try to destabilize the reactor in any way.
+  - The reason for whitelist must be solid:
+    - The employee is carrying the e-shutdown key.
+      - If the employee goes towards any other controls, they can be instantly terminated.
+    - The employee is a member of Pre-command or above.
 
 ### Operation Fortitude
 **Operation Fortitude** can be issued by **Specialist+.**
