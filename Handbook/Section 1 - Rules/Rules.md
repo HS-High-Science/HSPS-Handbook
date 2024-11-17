@@ -36,8 +36,7 @@ Maliciously attempting to find loopholes within the rules will result in discipl
 This is not to be mistaken for misunderstanding the rules. It is sometimes obvious if a misunderstanding is intentional or not.
 
 ## Rule 8: Only go on duty on PC.
-- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations.
-
+- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations
 
 
 # HS Rules
