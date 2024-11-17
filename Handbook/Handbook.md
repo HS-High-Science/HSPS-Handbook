@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a007563-3b3b-484f-8c46-83122d5b26d4)![image](https://github.com/user-attachments/assets/514c91f5-b039-49ce-9f6c-c651255f1863)# Section 1 - Rules
+# Section 1 - Rules
 
 ## HSPS Rules
 
