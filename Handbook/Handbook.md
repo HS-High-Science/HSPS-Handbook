@@ -204,7 +204,7 @@ Suspensions are generally issued when someone breaches HS/HSPS rules or guidelin
 Terminations are the heaviest version of punishments. Before a direct termination is issued, Pre-Command and above convene to decide if a termination is warranted. You can also get terminated for acquiring 4 strikes on the spot.
 
 ## 2.5 Activity & Quota
-As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an Leave of Absence (LOA), do so in [#leave-of-absence](https://discord.com/channels/1258840960734072914/1258877188506386472) (make sure to read the pinned messages).
+As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file a Leave of Absence (LOA), do so in [#leave-of-absence](https://discord.com/channels/1258840960734072914/1258877188506386472) (make sure to read the pinned messages).
 
 ### Current Quota
 (As of Nov. 3rd, 2024)
@@ -306,7 +306,7 @@ Warnings are given out on a case-by-case basis, but these are the situations in 
   - Attempting to turn off the E-coolant pump power.
   - Attempting to waste E-coolant if it’s not necessary. Doing this is cause for immediate termination. Reactor Operators may use E-Coolant for faster completion of a task.
 - An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they try to stop you.
- - Actions that are considered as as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./3.5%20RO%20Cooperation.md))
+  - Actions that are considered as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./3.5%20RO%20Cooperation.md))
 - An employee is blocking the controls in such a way that others are unable to interact with them at all, no matter the employee's avatar.
   - You must warn an employee to back away from the controls. If they ignore your warning, you may terminate them. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
 - An employee is in a restricted area.
@@ -341,7 +341,7 @@ If one of these requirements is met, you are allowed to issue a KoS:
 
 Abusing the KOS system will result in a strike. Use it __within reason.__
 
-_*See [3.2 "Warnings](./3.2%20Warnings.md)" for actions that are considered destabilizing the ECFR._
+_*See [3.2 Warnings](./3.2%20Warnings.md) for actions that are considered destabilizing the ECFR._
 
 ## 3.4 Restrictions
 You are **not**, unless stated otherwise, allowed to;
@@ -412,11 +412,7 @@ White Night regulations are as follows;
 - You should inform employees every now and then that the reactor control room is under lockdown to avoid confusion.
 - The protocol can be active for a maximum of 15 minutes and **must** be lifted within 2 minutes of ECFR reaching safe temperatures (25,000K to 70,000 K)
 - The Coolant Pump Room may also be locked down.
-- Individual employees may be whitelisted. Whitelisted employees can stay in the control room and coolant pump room as long as they don't try to destabilize the reactor in any way.
-  - The reason for whitelist must be solid:
-    - The employee is carrying the e-shutdown key.
-      - If the employee goes towards any other controls, they can be instantly terminated.
-    - The employee is a member of Pre-command or above.
+- The employee carrying the e-shutdown key can be whitelisted and let into the control room as long as their intention is not to destabilize the reactor.
 
 ### Operation Fortitude
 **Operation Fortitude** can be issued by **Specialist+.**
