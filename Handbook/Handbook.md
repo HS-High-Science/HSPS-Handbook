@@ -348,7 +348,7 @@ You are **not**, unless stated otherwise, allowed to;
 1. Go into the facility vents - they are intended for CF (_Climbing onto the vent hatch is permitted for vent peeking, however standing on the vent hatch for prolonged periods of time is prohibited._).
 2. Facilitate an instability event (reactor meltdown, FFD, etc.) (_Unless an administrator is conducting a server vote and this event won the vote, or if a pre-command member orders it._).
 3. Have a Roblox avatar that in any way shape or form gives you an unfair advantage in combat (_Such as narrow avatars or massively altered hitboxes_).
-4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or higher **and** backup was called (Such actions will result in a disciplinary action).
+4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or less **and** backup was called (Such actions will result in a disciplinary action).
 5. Leave the security team to purposely prevent data theft from occurring. This is a petty and cowardly tactic considering CF spent a good amount of robux or points on the gamepass/pack. **Do not be a sore looser.**
 
 ## 3.5 R.O. Cooperation
@@ -376,7 +376,7 @@ If you think that you can’t handle the situation in-game, you can send a backu
 Additionally, if the backup role ping wasn't effective and you still need help, you may ping any online Precommand+ member in your backup request thread and ask them to send the "@here" ping. Provide a reason for your request.
 
 ### Requirements: 
-- Security:CF ratio is 1:2 or more.
+- Security:CF ratio is 1:2 or less.
 - Code Blue+
 
 OR
