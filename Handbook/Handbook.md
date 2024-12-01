@@ -10,11 +10,12 @@
 **strongly urged** to gather proof and report the order to a member of Pre-Command or above. Following an order that violates a rule **will _not_** result in disciplinary action against those who follow it. This is to prevent you from being punished for insubordination. Furthermore, refrain from mini-modding other guards. Deliberately scrutinizing the actions of others, assuming an HR function, or acting as if you have authority you do not have is **frowned upon**. Additionally, you should not be mini-modding/assuming a moderator function when you are not one. An example of this would be telling CF to use team-chat.
 
 ### Rule 3: Use Grammar.
-- In public chat, while in-game, adherence to proper grammar, capitalization and punctuation is REQUIRED at all times while on duty. The requirement for full grammar usage is exempted in Discord channels and while speaking in team chat. 
+- In public chat, while in-game, you must write in proper English at all times while on duty. This includes adherence to proper grammar, capitalization and punctuation. This requirement is exempted in Discord channels and while speaking in team chat or in private messages.
 
 ### Rule 4: Act Professional.
 Members of HSPS must show a high level of professionalism while on-duty. This means you are not allowed to: 
 - Make unnecessary comments outside of team chat
+- Talk to members of the Chaos Forces team in the global chat
 - Dance in public areas 
 - Show any immaturity in public areas
 - When off duty, you must maintain the professional standards that been set, to keep an example. This means, you don't have to use grammar, just don't be stupid.
@@ -25,31 +26,33 @@ You as a member of HSPS are representing not just yourself but HSPS as a whole. 
 
 
 ### Rule 5: Be Active.
-- Regardless of the existence of a quota, activity within HSPS is expected for all members of HSPS. While real life matters take priority, it is essential to maintain a level of activity. After all, it was your choice to join HSPS, being aware of whatever circumstances you were in. While the bare minimum is the quota, it is encouraged to exceed the quota. Failure to meet the quota on multiple occasions may result in disciplinary measures such as strikes, suspensions, or termination.
-
+- Regardless of the existence of a quota, activity within HSPS is expected for all members of HSPS. While real life matters take priority, it is essential to maintain a level of activity. After all, it was your choice to join HSPS, being aware of whatever circumstances you were in. While the bare minimum is the quota, it is encouraged to exceed the quota. Failure to meet the quota on multiple occasions may result in disciplinary measures such as strikes, suspensions, or termination. You should stay up-to-date with all important announcements regarding HSPS.
 
 ### Rule 6: No Disrespect.
-- HSPS operates under a structured hierarchy of ranks. However, a person’s rank does not warrant disrespect towards fellow members. Instructors are expected to give the same level of respect to a Cadet as a Cadet would to them. **Every member is obligated to treat others with respect, regardless of their rank**. This principle extends beyond internal HSPS interactions. Any form of aggression or disrespect towards other individuals or groups of people, whether in or outside of HSPS, will not be tolerated. Mutual respect and being the better person is expected out of every member of HSPS.
+- HSPS operates under a structured hierarchy of ranks. However, a person’s rank does not warrant disrespect towards fellow members. Instructors are expected to give the same level of respect to a Cadet as a Cadet would to them. **Every member is obligated to treat others with respect, regardless of their rank**. This principle extends beyond internal HSPS interactions. Any form of aggression or disrespect towards other individuals or groups of people, whether in or outside of HSPS, will not be tolerated. Mutual respect and being the better person is expected out of every member of HSPS. If someone is disrespectful to you, you are encouraged to gather evidence and report them. Starting or keeping up disrespectful arguments is prohibited.
 
 ### Rule 7: No Loopholes/Bending the Rules.
 - We are aware that certain individuals may attempt to exploit loopholes or “gray areas” in the rules, in an attempt to circumvent regulation. Such behavior will not be condoned. Swift and severe consequences will be administered to those found attempting to manipulate the rules for their own personal gain.
 Rules against loopholes are often ridiculed, but it is a different way of saying “Don’t abuse mistakes made when the guidelines were written.”. For an example, if the rule says "KoS is allowed if the core is above 80.000K", obviously it means 80 thousand kelvin, not 80 kelvin, and you should not abuse the fact that there's a period instead of a comma. Instead, you should report this mistake, so that those who are not as mature as yourself cannot abuse the rule.
 Maliciously attempting to find loopholes within the rules will result in disciplinary action.
-This is not to be mistaken for misunderstanding the rules. It is blatantly obvious if a misunderstanding is intentional or not.
+This is not to be mistaken for misunderstanding the rules. It is sometimes obvious if a misunderstanding is intentional or not.
 
 ### Rule 8: Only go on duty on PC.
-- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations.
+- You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations
 
-It is important to note that HSPS Handbook inherits all of the general High Science rules.
+
+## HS Rules
+It is important to note that HSPS Handbook inherits all of the general High Science rules. Breaching any of those rules (regardless if the breach was commited in the HS server or outside of it) will land you with a punishment in HSPS. Further, getting punished in the main server or in CPUF will also get you additional punishment in HSPS.
 
 # Section 2 - Guidelines
 
 ## 2.1 In-game communications
-This section of the guidelines will go in-depth about interactions with other players in CPUF. In general, when you are talking, please ensure you abide by all HS and HSPS rules, especially HSPS Rule 4 (Act Professional).
+This section of the guidelines will go in-depth about interactions with other players in CPUF. In general, when you are talking, please ensure you abide by all HS and HSPS rules.
 
 ### When On Duty
-- Your primary communication channel should be team chat. Do not speak in public chat unless it’s absolutely necessary (Ie: Answering a question, Coordinating a shutdown, etc.)
-- Please double-check that your messages are being sent to the intended place. If you mean to communicate in team chat, ensure your message is being sent there. Mistakes happen, but they should not happen often.
+- Your primary communication channel should be team chat. Do not speak in public chat unless it’s absolutely necessary (Ie: Answering a question, Coordinating a shutdown, etc.). Furthermore, **do not** speak to members on the CF team in public chat.
+ - Members ranking pre-command and above are given more leniency in regards to speaking in public chat, however all messages should always follow the rules.
+- Please double-check that your messages are being sent to the intended place. If you mean to communicate in team chat, ensure your message is being sent there. Mistakes happen, however try avoiding them in the first place.
 
 #### Roblox Voice
 Spatial voice is prohibited on-shift for anyone who is not Pre-Command or higher for a multitude of reasons.
@@ -65,17 +68,15 @@ When you are not on duty, you are not expected to follow any of the above rules 
 These regulations will go over rules for HS/HSPS discord servers. These guidelines don’t only apply to text channels, but to voice channels as well. Please have Rule 4 in mind before you have any conversations.
 
 ### When On Duty
-- You are now required to join the On-duty VC(s) as soon as you get on team, as it eases communications for those who do decide to talk in VC
-  - You are not required to use a microphone. Simply being in a VC with everyone else is easier for everyone who is using a microphone.
-- Should you be heavily outnumbered or outgunned, you are permitted to request backup in the #backup-request channel. (Reference 3.6)
-  - When requesting backup, please supply your Roblox profile link so people can join through it, and make sure your joins are enabled for everyone.
-  - Other forms of supplying a method of joining the game, like RoPro, are also allowed.
+- You are required to join the On-duty VC(s) as soon as you get on team (or right before you get on team), as it eases communications for those who do decide to talk in VC
+ - You are **not** required to use a microphone.
+- Should you be heavily outnumbered or outgunned, you are permitted to request backup in the [#backup-request](https://discord.com/channels/1258840960734072914/1258876954497777684) forum. ([See 3.6 Backup Requests](../Section%203%20-%20Operations/3.6%20Backup%20Requests.md))
 
 ### When Off Duty
 Full grammar does not need to be maintained while off-duty. Feel free to talk to other guards without grammar, but please use common sense.
 
 ## 2.3 Ranks
-We have many ranks within our department. Below they are described in detail, including how the rank is obtained.
+We have many ranks within our department. Below they are described in detail, including how the rank is obtained. The ranks are ordered from lowest to highest in the chain of command. Note that all ranks inherit perks of ranks below them.
 You can also see the respective rank tags in parentheses. These tags are used in the HSPS Discord server.
 
 ### Low Ranks
@@ -86,24 +87,24 @@ How to obtain:
 - Pass the HSPS Application.
 
 #### Junior Guardsman (JG)
-Junior Guardsman is the first official rank that you can earn in HSPS. You get this rank by passing the Cadet Training Program.
+Junior Guardsman is the first official rank that you can earn in HSPS, granting access to the M4, G17 and the normal uniform.
 How to obtain: 
-- Pass Cadet Academy stages 1, 2 and 3.
+- Pass the cadet academy.
 
 #### Guardsman (GDM)
-Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced Security” uniform during Code Orange.
+Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced uniform” (only during Code Orange and above).
 How to obtain: 
-- Be active and don’t cause trouble
+- Be active and don’t cause trouble.
 - 30 Points + 10 In-Game Hours.
 
 #### Senior Guardsman (SG)
-Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earnt this rank. They are permitted to wear the “Riot Security” uniform during Code Orange.
+Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earn this rank. They are permitted to wear the “Riot uniform” (only during Code Orange and above).
 How to obtain: 
-- Fulfill the previous requirements, but step it up a little
+- Fulfill the previous requirements, but step it up a little.
 - 70 Points + 40 In-Game Hours.
 
 #### Elite Guardsman (EG)
-Elite Guardsman is the highest low rank in HSPS. If you have reached this rank, you are considered experienced in what you do within HSPS. You are being observed for a possible promotion to Specialist, one of the first MR ranks. Most people will hit a "brick wall" at this rank, and have difficulty progressing. They are permitted to use "REDACTED".
+Elite Guardsman is the highest low rank in HSPS. If you have reached this rank, you are considered experienced in what you do within HSPS. You are being observed for a possible promotion to Specialist, the first MR rank. Most people will hit a "brick wall" at this rank, and have difficulty progressing past this point. This rank's perks are yet to be decided.
 How to obtain:
 - Unknown at this time until further notice. 
 
@@ -111,7 +112,7 @@ How to obtain:
 ### Middle Ranks
 
 #### Specialist (SPC)
-Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host HSPS-wide patrols and co-host Cadet Stage 3 Trainings. They are permitted to wear the “Heavy Security” uniform during Code Orange.
+Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform” (only during Code Orange and above).
 How to obtain: 
 - Fulfill the previous requirements 
 - Be an upstanding guard
@@ -120,7 +121,7 @@ How to obtain:
 - Have Active Commendations (Recommended).
 
 #### Senior Specialist (SSPC)
-Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host HSPS-wide patrols on their own.
+Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host HSPS-wide patrols and host Cadet Stage 3 events on their own.
 How to obtain: 
 - Fulfill the previous requirements 
 - Demonstrate that you can lead others 
@@ -147,23 +148,15 @@ How to obtain:
 Junior Instructors are members of HSPS who have shown that they are competent enough to take on the job of HSPS’s backbone operations. They deal with day-to-day operations within HSPS, host trainings, deal with reports, etc.
 
 #### Instructor (INS)
-Instructors are Junior Instructors who have excelled at their work and have been granted the privilege of holding this rank. They are the most senior obtainable rank in HSPS that can have more than one person. If they say something to you, it is almost guaranteed that they are correct, given their knowledge and experience within HSPS.
+Instructors are former Junior Instructors who have excelled at their work and have been granted the privilege of holding this rank. They are the most senior obtainable rank in HSPS that can have more than one person. If they say something to you, it is almost guaranteed that they are correct, given their knowledge and experience within HSPS.
 
 ### Command
 
 #### Deputy Director (DD)
-The Deputy Director is the Second in Command of HSPS. They are allowed to handle reports that regard members of Pre-Command, as well as overrule sections of HSPS Guidelines at will. The current Deputy Director is Tilted_Cr3atura.
+The Deputy Director is the Second in Command of HSPS. They are allowed to handle reports that regard members of Pre-Command, as well as overrule sections of HSPS Guidelines at will. The current Deputy Director is StolarchukBoris.
 
 #### Director of Defense (DoD)
-The Director is the Leader of HSPS, only outranked by the Owner of High Science, Daeny_1000. They are allowed to handle reports that regard members of Pre-Command and the Deputy Director, as well as overrule/edit sections of HSPS Guidelines at will. The current Director is Astropulent.
-
-### Miscellaneous
-
-#### Staff
-Staff is an unofficial rank within HSPS. Staff are members of the High Science Moderation team who are permitted access to some portions of HSPS operations. Pre-Command and above outrank Staff members in HSPS matters.
-
-#### Management
-Management are members of the High Science Administration Team who are permitted access to all portions of HSPS operations. Pre-Command and above outrank Management members in HSPS matters.
+The Director is the Leader of HSPS, only outranked by the Owner of High Science, Daeny_1000. They are allowed to handle reports that regard members of Pre-Command and the Deputy Director, as well as overrule/edit sections of HSPS Guidelines at will. The current Director is Tilted_Cr3atura.
 
 ## 2.4 Disciplinary Actions
 Here at HSPS, we have a disciplinary system that all members of Pre-Command+ stick to. Disciplinary actions are given at the discretion of Officers and Pre-Command+.
@@ -211,13 +204,15 @@ Suspensions are generally issued when someone breaches HS/HSPS rules or guidelin
 Terminations are the heaviest version of punishments. Before a direct termination is issued, Pre-Command and above convene to decide if a termination is warranted. You can also get terminated for acquiring 4 strikes on the spot.
 
 ## 2.5 Activity & Quota
-As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file an LOA, do so in #leave-of-absence.
+As a member of HSPS, you are expected to be at least somewhat active within HSPS and the HS community. If you need to file a Leave of Absence (LOA), do so in [#leave-of-absence](https://discord.com/channels/1258840960734072914/1258877188506386472) (make sure to read the pinned messages).
 
 ### Current Quota
 (As of Nov. 3rd, 2024)
 __In-Game Activity (Shifts)__ - 2 hours (120 mins) per 2 weeks
 **OR**
 __Training Attendance__ - 1 time per 2 weeks.
+
+Quota checks are performed every 2 weeks on Sundays.
 
 ### Quota Rules
 As we have this system in place, we have certain rules for our guards to follow.
@@ -229,14 +224,19 @@ We do not permit guards going AFK during their shift. If you need to go AFK for 
 We care about your health and don’t support excessive playtime. Take regular breaks and monitor your health while on duty. If you feel ill, we recommend not getting on at all.
 
 #### Quota Rule 3: Logging shifts on private servers is not allowed
-In case of manual shift logging system being in place, you are not allowed to log shifts on private servers. Shift logging is allowed only on public servers and special events if permitted by HSPS leadership.
+In case of manual shift logging system being in place, you are not allowed to log shifts on private servers. Shift logging is allowed only on public servers (and special events, if permitted by HSPS leadership).
 
 #### Leave Of Absence:
 While on Leave of Absence, you are exempt from the quota and you are allowed to attend any events that may occur while your LOA is active, however we advise you to take a break from the game while your LoA is ongoing as your health always takes priority.
 
+#### Manual shift logging:
+When manual shift logging is in place, you may manually start your shift using /shift start and end it using /shift end in [#shift-commands](https://discord.com/channels/1258840960734072914/1287843469813092372). To end your shift you need to attach image evidence. Valid evidence is any screenshot of you in the Security team **showing your entire Roblox client**.
+
 # Section 3 - Operations
 
 ## 3.1 Facility Codes
+Facility codes help convey the overall threat level and status in a quick and simple manner. This list is ordered from least severe ("lowest") to most severe ("highest"). The most severe code applicable overrides lower codes (for example, if only the requirements for code orange and code red are met, it's just code red).
+
 ### Code Green
 Code Green indicates there is no imminent threat within the facility and the facility is in normal operations. The facility is in code green:
 
@@ -249,29 +249,24 @@ You are permitted to help operators with any questions they may have and help wi
 Code Blue means there is a minor threat within the facility that may escalate if it is not dealt with. Code Blue is active if:
 
 - The FFD terminal or Warhead laptop is hacked.
-
-Code Blue does **not** activate if the Warhead laptop is hacked while Warhead is locked due to being cancelled twice, or if the FFD terminal is hacked while FFD is locked.
-
-
+ - Code Blue is **not** active if the Warhead laptop is hacked while Warhead is locked due to being cancelled twice, or if the FFD terminal is hacked while FFD is locked.
 
 ### Code Orange
-Code Orange indicates a moderate threat within the facility that needs to be neutralised promptly. 
+Code Orange indicates a moderate threat within the facility that might require further attention.
 
-Code Orange is active if:-
+Code Orange is active if:
 
 -  the computer core is in emergency mode 
--  the warhead protocol is engaged
+-  the warhead protocol is engaged (after the 1st warhead announcement plays until the warhead is cancelled)
 -  the ECFR is outside safe operating temperatures (Above 70,000K, below 30,000K)
 
 
 
 ### Code Red
 
-Code Red indicates a severe threat within the facility. The priority is to neutralise that threat immediately.
+Code Red indicates a severe threat within the facility.
 
-**If Code Red is active, security guards must immediately stop what they are doing and deal with the threat.**
-
-Code Red is active if:-
+Code Red is active if:
 
 - The T-SD-02 control panel is activated (the red switch has been operated)
 - The warhead is charging or is charged and awaiting activation
@@ -281,161 +276,163 @@ Code Red is active if:-
 
 ### Code Black
 
-Code Black indicates that the facility is in imminent danger of being destroyed. The priority is to prevent facility destruction or evacuate employees from the facility and protect the data.
+Code Black indicates that the facility is in imminent danger of being destroyed.
 
 **Security guards must attempt to prevent the destruction of the facility (if possible) and protect data.**
 
 Code Black is active if:
 
-- The warhead is detonating.
-- FFD is engaged.
+- The warhead is detonating (after the final button was pressed).
+- FFD is engaged (after the final button was pressed).
 - ECFR is in a meltdown.
 
-Your priority here is to attempt to abort FFD (shut down servers) or shut down the ECFR. If these facility conservation options have expired and detonation is inevitable, your priority is to protect the data and evacuate the employees from the facility.
+You should prioritize aborting FFD (shut down servers) and/or shutting down the ECFR, however use your best judgement to determine the best course of action.
 
 ## 3.2 Warnings
 Warnings are the type of disciplinary action that you issue to employees when they are being a nuisance to you and other players.
 
 ### When Can I Give Warnings?
 Warnings are given out on a case-by-case basis, but these are the situations in which you can give warnings (Non-comprehensive list):
-- An employee is in your face, on your body or just being a general nuisance to you.
-  - If the employee ignores the warning, you may terminate them after 5 seconds.
+- An employee is in your face, on your body or just being a general nuisance to you or others.
+  - If the employee ignores the warning, you may terminate them after 5 seconds. If they stop after your warning and then do it again, you may terminate them immediately.
 - An employee is attempting to destabilize the ECFR
-  - Destabilizing by raising the temperature above 70,000 kelvin or below 30,000 kelvin.
-  - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, relief controls^ and trying to increase pump motor strain to dangerous levels.
-  - ^At any time of operations you can take control of the relief valves if either of the buildups is above 40% and keep controlling them until both buildup levels are below 20%. During that time you can also warn employees putting either of the valves to 1 or 0. **Note:** Barium buildup level is to be ignored during operations.
+  - Attempting to destabilize the ECFR is raising the temperature while the temperature is above 70,000 kelvin or lowering it when it's below 30,000 kelvin.
+   - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, exhaust system controls^ and trying to increase pump motor strain to dangerous levels.
+    - ^At any time of operations you can take control of the exhaust system controls if either of the buildups is above 40% and keep controlling them until both buildup levels are below 20%. During that time you can also warn employees putting either of the relief controls to 1 or 0.
+      - **Note:** Barium buildup level is to be ignored during operations.
   - In situations where the temperature is above 80,000 kelvin or below 20,000 kelvin, warnings are not required and KoS is allowed, if a control is tampered with that conflicts with your objective.
+  - If there are multiple employees near a control that has been messed with, you may warn the one closest to the control.
 - An employee is messing with Emergency Cooling Controls
   - Attempting to turn off the E-coolant pump power.
   - Attempting to waste E-coolant if it’s not necessary. Doing this is cause for immediate termination. Reactor Operators may use E-Coolant for faster completion of a task.
-- An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they stop you.
-  - Actions that are considered as interference: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (Review 3.5)
+- An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they try to stop you.
+  - Actions that are considered as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./3.5%20RO%20Cooperation.md))
 - An employee is blocking the controls in such a way that others are unable to interact with them at all, no matter the employee's avatar.
-  - You must warn an employee to back away from the controls. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
+  - You must warn an employee to back away from the controls. If they ignore your warning, you may terminate them. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
 - An employee is in a restricted area.
-  - If it's **Code Green or Blue**, you must give an employee at least 1 warning and 15 seconds to leave the area.
+  - If it's **Code Green or Blue**, you must give an employee a warning and ample time to leave the area.
   - If it's **Code Orange, Red or Black**, you are permitted to terminate the trespassing employee on sight (without warnings).
   - If you are in active combat, you do not have to warn an employee immediately. However, when it is safe, you must take measures to get employees out of the restricted area in accordance with the conditions described above.
-  - **NOTE**: Server room is **not** considered a restricted area.
+  - Areas that are considered restricted are: ventilation system, computer core zone (unless it's code black), warhead zone, and the archive room.
+   - The FFD Server room is **not** considered a restricted area.
 
 - An employee is impersonating security.
-  - If an employee is impersonating security by issuing warnings or wearing the uniform, then you may issue them a warning to stop, however if they do not, you may terminate them.
-  - The only exception to this, if the employee is ranked Junior Guardsman+.
+  - If an employee is impersonating security by issuing warnings or wearing a HSPS uniform, then you may issue them a warning to stop, however if they do not stop, you may terminate them.
+  - If the employee is ranked Junior Guardsman or above, you can't give them warnings for impersonating security. However, if they are wearing an outfit similar to the morphs in the security spawn, please report them to a member of pre-command.
 
 ### When Can I NOT Give Warnings?
-You should **NOT** give warnings for the following circumstances:
+You should **NOT** give warnings for the following actions:
 1. An employee is hacking, glitching, being disrespectful/toxic, or doing any action that would generally require moderation intervention. In those cases, make a report in #report-center
 2. Someone is spamming the controls in a manner that requires said controls to be spammed.
+3. An administrator (user on the admin team) is interfering with your duties. If this happens, please report said administrator to IRD leadership.
 
-You are to issue up to a minimum of three verbal warnings before you are permitted to terminate a user for any reason listed under 3.2, unless stated otherwise.
+You are to issue up to a minimum of three verbal warnings before you are permitted to terminate a user for any reason listed above, unless stated otherwise.
 
-If an employee does something that is warnable, you must issue a warning to them, so that the enforcement of warnings by all guards is fair for all.
+If an employee does something that warrants a warning, you must issue a warning to them, so that the enforcement of warnings by all guards is fair for all.
 
 ## 3.3 Shift KOS
-If some employees are intentionally trying to interrupt site operations by messing around, or are attempting to melt the core, you are allowed to issue a shift KoS. Shift KoS(s) are active until the shift ends and they get deactivated once the new shift begins.
+If some employees are intentionally trying to interrupt site operations by messing around, or are attempting to melt the core, you are allowed to issue a shift KoS. Shift KoS' are active until the shift ends and they get deactivated once a new shift begins.
 
 ### When can Shift KoS be issued?
 If one of these requirements is met, you are allowed to issue a KoS:
-- Junior Guardsman+ - Employee was terminated 2+ times for destabilizing the core* / trespassing / griefing RO tasks / employee is pretending to be a security guard (wearing a similar uniform and trying to act like security; Exception: The employee is Junior Guardsman+)
-- Senior Guardsman+ - Employee was terminated at least once for destabilizing the core* / trespassing / griefing RO tasks / acting like security
-- Deputy Director+ - Can mark anyone as KoS at any time.
+- Junior Guardsman+ - Employee was terminated 2+ times for destabilizing the core* / trespassing / griefing RO tasks / pretending to be a security guard (wearing a similar uniform or trying to act like security).
+- Senior Guardsman+ - Employee was terminated at least once for destabilizing the core* / trespassing / griefing RO tasks / pretending to be a security guard
+- Pre-command+ - Can mark anyone as KoS at any time for any reason.
 
-Shift KoS should be announced in team chat. After that, it’s active.
+Once you mark someone as KoS, please notify other guards on duty. Abusing the KOS system will result in a strike. Use it __within reason.__
 
-**REMEMBER!** KoS doesn’t let you instantly kill the employee just when you see them. They can be instantly terminated (without warnings) for any action stated in 3.2.
-
-Abusing the KOS system will result in a strike. Use it __within reason.__
-
-_*See 3.2 "Warnings" for actions that are considered destabilizing the ECFR._
+_*See [3.2 Warnings](./3.2%20Warnings.md) for actions that are considered destabilizing the ECFR._
 
 ## 3.4 Restrictions
-You are **not**, under any circumstances, allowed to;
+You are **not**, unless stated otherwise, allowed to;
 1. Go into the facility vents - they are intended for CF (_Climbing onto the vent hatch is permitted for vent peeking, however standing on the vent hatch for prolonged periods of time is prohibited._).
-2. Facilitate an instability event (reactor meltdown, FFD, etc.) (_Unless an administrator is conducting a server vote and this event won the vote_).
+2. Facilitate an instability event (reactor meltdown, FFD, etc.) (_Unless an administrator is conducting a server vote and this event won the vote, or if a pre-command member orders it._).
 3. Have a Roblox avatar that in any way shape or form gives you an unfair advantage in combat (_Such as narrow avatars or massively altered hitboxes_).
-4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or less and backup was called (Such actions will result in a disciplinary action) (1 CF with Advanced Armor is considered as 2 regular CF).
-5. Leave the security team to purposely prevent data theft from occurring. This is petty and cowardly tactic considering CF spent a good amount of robux or points on the gamepass/pack. **Do not be a sore looser.**
-6. Speak in the backup request forum threads while playing on the Chaos Forces team. Because of this, people viewing the thread may be confused, thinking you're playing as Security.
+4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or less **and** backup was called (Such actions will result in a disciplinary action).
+5. Leave the security team to purposely prevent data theft from occurring. This is a petty and cowardly tactic considering CF spent a good amount of robux or points on the gamepass/pack. **Do not be a sore looser.**
+6. Control the ECFR (excluding e-coolant controls) unless any of the below conditions are met:
+   - you are cooperating with Reactor Operators
+   - you are preventing the pumps from straining
+   - the "temperature low" or "temperature high" warnings on the reactor monitoring screen are active
+   - any other rules allow you to use the controls (for example the exhaust system rules)
 
 ## 3.5 R.O. Cooperation
+At any point you may ask the Reactor Operators for cooperation and confirm it when the requirements below are met.
 ### Requirements
 - You have clarified with the Reactor Operators what task they are trying to complete. 
-- At least 50% of the RO team should confirm that they are going to complete the tasks. (They may also specify how they plan to complete the task)
-  - If 50% say one thing, and 50% say another thing, you are not allowed to do R.O. Cooperation
+- At least 50% of the RO team confirmed that they are trying to complete the task. (They may also specify how they plan to complete the task)
+  - If 50% of the Reactor Operators confirm one task and the other 50% of the Reactor Operators confirm a different task, you are not allowed to do R.O. Cooperation.
+
+After confirming the cooperation you should inform the Reactor Operators, for example by saying "Task 3 confirmed.".
 
 You are allowed to warn employees if they attempt to grief the duties of the Reactor Operators. You may give warnings whenever they attempt to interfere with the current task, or if they are preventing/impeding the efforts of Reactor Operators to reach current task parameters.
 
-After 6 AM you are allowed to aid the reactor shutdown process for Task 5 if all other tasks are complete/the Reactor Operators vote to.
+After 6 AM you are allowed to aid the reactor shutdown process for Task 5 if all other tasks are completed (failed tasks count as completed) or if the Reactor Operators vote to.
 
-You must warn an employee a total of 3 Times before terminating them.
+You must warn an employee a total of 3 times before terminating them.
 - If an employee has been warned, and the task they were warned in was completed, the warnings carry over to the next task.
-- Upon termination, their warnings “Reset”, however you may mark them as KOS when the Shift KoS requirements are met (Shown in Section 3.3)	
+- Upon termination, their warnings “Reset”, however you may mark them as KOS when the Shift KoS requirements are met (See [3.3 Shift KoS](./3.3%20Shift%20KoS.md))
 
 ## 3.6 Backup Requests
-If you think that you can’t handle the situation in-game, you can send a backup request to get some help. It should be noted that the backup-request cooldown is 30 minutes, per server.
+If you think that you can’t handle the situation in-game, you can send a backup request to get some help. It should be noted that the backup request cooldown is 30 minutes, per server.
+- When requesting backup, please supply your Roblox profile link so people can join through it, and make sure your joins are enabled for everyone.
+  - Other forms of supplying a method of joining the game, like RoPro, are also allowed.
+  - If you don't include a profile link or an invite link to the server, don't forget to mention a way to join you.
 Additionally, if the backup role ping wasn't effective and you still need help, you may ping any online Precommand+ member in your backup request thread and ask them to send the "@here" ping. Provide a reason for your request.
 
 ### Requirements: 
-- CF:Security ratio is 2:1 or more. (1 Heavy Armored CF = 2 CF)
+- Security:CF ratio is 1:2 or less.
 - Code Blue+
 
 OR
 
-- An official raid is active (hosted by the Chaos Forces Alliance or High Science Administration)
+- An official raid is active (hosted by the Chaos Forces Alliance)
 
 # Section 4 - Miscellaneous
 
 ## 4.1 MRT
+Note: MRT was officially disbanded on 05OCT24.
+
 As HSPS grew bigger, it was obvious that some guards might have a high level of specialization that should be recognized, thus the subdivision MRT (Militarized Response Team) was formed.
 
 ### Subdivision List
 #### MRT (Militarized Response Team)
-**MRT** is an “elite HS unit whose mission is to protect strategic sites from external and internal threats.” They have the best HSPS guards in their ranks, allowing them to cope with any challenge that comes their way. MRT has rule bypasses to reach the best combat result.
+**MRT** was an “elite HS unit whose mission is to protect strategic sites from external and internal threats.” They had the best HSPS guards in their ranks, allowing them to cope with any challenge that came their way. MRT had rule bypasses to reach the best combat result.
 
 ### Joining MRT
-**MRT** is a subdivision within HSPS, which is currently invite only with guards having to prove themself being capable of joining MRT. It varies on skills and leadership qualities you may have, that is beneficial to the subdivision. There will be certain requirements within as well to try to receive an invite to MRT. 
+**MRT** was a subdivision within HSPS, which was invite only with guards having to prove themself being capable of joining MRT. It varied on skills and leadership qualities guards may have had, that was beneficial to the subdivision. There were certain requirements within as well to try to receive an invite to MRT. 
 
 ## 4.2 Security Protocols
 
 ### White Night
-**White Night** can be issued by **Guardsman+.**
+**White Night** can be issued by HSPS members ranking **Guardsman+.**
 You can issue White Night when the following requirements are met
 1. The employees attempting to destabilize the reactor have gone out of Security control;
 2. Temperature is outside safe limits (Above 75,000 or below 20,000 kelvin)
+
 White Night regulations are as follows;
-- Notify on-duty security in team chat by saying “White Night has been issued.”
-- You must inform employees that they are required to leave the CR or face termination.
-  - You need to give them 15 seconds to comply with that order.
-- You need to re-inform employees once every 3 minutes that the control room is under lockdown.
+- Notify on-duty security (either in team chat or in voice chat if you have a microphone) that the protocol is active.
+- You must inform employees that they are required to leave the RCR or face termination.
+ - You need to give them ample time to comply with that order.
+- You should inform employees every now and then that the reactor control room is under lockdown to avoid confusion.
 - The protocol can be active for a maximum of 15 minutes and **must** be lifted within 2 minutes of ECFR reaching safe temperatures (25,000K to 70,000 K)
 - The Coolant Pump Room may also be locked down.
+- The employee carrying the e-shutdown key can be whitelisted and let into the control room as long as their intention is not to destabilize the reactor.
 
 ### Operation Fortitude
 **Operation Fortitude** can be issued by **Specialist+.**
 You can issue Operation Fortitude when the following requirements are met:
 1. The Code is Blue or lower.
 2. There are CFs targeting a specific vital area.
-3. The ratio of Security to CF is maximum 1:2.5 (Heavy Armor CF = 2 CF)
+3. The ratio of Security to CF is maximum 1:2.5
 4. There are at least 3 security on duty.
 5. Security is unable to secure the area CF are holding.
 
 Fortitude regulations are as follows;
-- Notify on-duty security in team chat by saying “Fortitude is Active.”
+- Notify on-duty security (either in team chat or voice chat) that the protocol is active.
 - All guards can put on any armor available to them.
 - Fortitude may be active for a maximum of 10 minutes, or until the region is secure for at least 5 minutes.
 - There is a cooldown of 30 minutes from when the protocol gets lifted.
-
-### Precommand+ Protection
-**PC+ Protection** can be issued by a member of Precommand+. HSPS personnel should not privately request protection initiation and must prioritize their regular duties.
-Protection statuses:
-- Roam: All guards are free to patrol and resume their regular duties. They should not provide protection to anyone.
-- Optional: A maximum of one guard per PC+ member is allowed. HSPS personnel are not obligated to protect the individual.
-- Protect: Up to two guards must protect PC+ members at all times until instructed to switch to Roam or Optional status.
-*If there are fueling Warhead, FFD in E-mode, Pre-Meltdown or Pre-Stall, or 1+ CF on the server, HSPS personnel will automatically be in Roam and must respond to events immediately.*
-During protection:
-- No employees should approach the Pre-command+ member (later referred to as VIP), shine lights at VIP or any other HSPS personnel. A single warning to back off is permitted; if the warning is ignored, you are authorized to terminate the individual.
-- Employees who jump onto HSPS personnel or VIPs are to be terminated on sight.
-- It is highly recommended to always remain close to your VIP, ideally forming a wedge or a VIP box around them (you can look up what a VIP box is for more information).
 
 ## 4.3 Private Server Regulations
 
@@ -445,4 +442,4 @@ In Private Servers, the following rules within the HSPS Handbook are voided:
 - Section 3: 3.1 through 3.5
 - Section 4: 4.2
 
-Even though these rules are voided, you are still expected to follow the rules put in place by the Private Server Owner that do not interfere with the non-voided rules in this handbook. If they tell you to get off team, get off team. If they tell you to not kill those who enter the FFD, don’t kill them.
+Even though these rules are voided, you are still expected to follow the rules put in place by the Private Server Owner that do not interfere with the non-voided rules in this handbook. If they tell you to get off team, get off team. If they tell you to not kill those who enter the FFD, don’t kill them, and so on.
