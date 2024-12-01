@@ -153,10 +153,10 @@ Instructors are former Junior Instructors who have excelled at their work and ha
 ### Command
 
 #### Deputy Director (DD)
-The Deputy Director is the Second in Command of HSPS. They are allowed to handle reports that regard members of Pre-Command, as well as overrule sections of HSPS Guidelines at will. The current Deputy Director is Tilted_Cr3atura.
+The Deputy Director is the Second in Command of HSPS. They are allowed to handle reports that regard members of Pre-Command, as well as overrule sections of HSPS Guidelines at will. The current Deputy Director is StolarchukBoris.
 
 #### Director of Defense (DoD)
-The Director is the Leader of HSPS, only outranked by the Owner of High Science, Daeny_1000. They are allowed to handle reports that regard members of Pre-Command and the Deputy Director, as well as overrule/edit sections of HSPS Guidelines at will. The current Director is Astropulent.
+The Director is the Leader of HSPS, only outranked by the Owner of High Science, Daeny_1000. They are allowed to handle reports that regard members of Pre-Command and the Deputy Director, as well as overrule/edit sections of HSPS Guidelines at will. The current Director is Tilted_Cr3atura.
 
 ## 2.4 Disciplinary Actions
 Here at HSPS, we have a disciplinary system that all members of Pre-Command+ stick to. Disciplinary actions are given at the discretion of Officers and Pre-Command+.
