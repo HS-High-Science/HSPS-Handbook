@@ -383,7 +383,7 @@ If you think that you can’t handle the situation in-game, you can send a backu
 Additionally, if the backup role ping wasn't effective and you still need help, you may ping any online Precommand+ member in your backup request thread and ask them to send the "@here" ping. Provide a reason for your request.
 
 ### Requirements: 
-- Security:CF ratio is 1:2 or less.
+- Security:CF ratio is 1:1.5 or less.
 - Code Blue+
 
 OR
@@ -426,7 +426,7 @@ White Night regulations are as follows;
 You can issue Operation Fortitude when the following requirements are met:
 1. The Code is Blue or lower.
 2. There are CFs targeting a specific vital area.
-3. The ratio of Security to CF is maximum 1:2.5
+3. The ratio of Security to CF is maximum 1:2
 4. There are at least 3 security on duty.
 5. Security is unable to secure the area CF are holding.
 
