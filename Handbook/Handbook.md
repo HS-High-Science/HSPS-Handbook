@@ -316,7 +316,7 @@ Warnings are given out on a case-by-case basis, but these are the situations in 
   - If it's **Code Orange, Red or Black**, you are permitted to terminate the trespassing employee on sight (without warnings).
   - If you are in active combat, you do not have to warn an employee immediately. However, when it is safe, you must take measures to get employees out of the restricted area in accordance with the conditions described above.
   - Areas that are considered restricted are: ventilation system, computer core zone (unless it's code black), warhead zone, and the archive room.
-   - The FFD Server room is **not** considered a restricted area.
+    - The FFD Server room is **not** considered a restricted area.
 
 - An employee is impersonating security.
   - If an employee is impersonating security by issuing warnings or wearing a HSPS uniform, then you may issue them a warning to stop, however if they do not stop, you may terminate them.
