@@ -72,7 +72,7 @@ These regulations will go over rules for HS/HSPS discord servers. These guidelin
 ### When On Duty
 - You are required to join the On-duty VC(s) as soon as you get on team (or right before you get on team), as it eases communications for those who do decide to talk in VC
  - You are **not** required to use a microphone.
-- Should you be heavily outnumbered or outgunned, you are permitted to request backup in the [#backup-request](https://discord.com/channels/1258840960734072914/1258876954497777684) forum. ([See 3.6 Backup Requests](../Section%203%20-%20Operations/3.6%20Backup%20Requests.md))
+- Should you be heavily outnumbered or outgunned, you are permitted to request backup in the [#backup-request](https://discord.com/channels/1258840960734072914/1258876954497777684) forum. ([See 3.6 Backup Requests](./Handbook.md#36-backup-requests))
 
 ### When Off Duty
 Full grammar does not need to be maintained while off-duty. Feel free to talk to other guards without grammar, but please use common sense.
@@ -308,7 +308,7 @@ Warnings are given out on a case-by-case basis, but these are the situations in 
   - Attempting to turn off the E-coolant pump power.
   - Attempting to waste E-coolant if it’s not necessary. Doing this is cause for immediate termination. Reactor Operators may use E-Coolant for faster completion of a task.
 - An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they try to stop you.
-  - Actions that are considered as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./3.5%20RO%20Cooperation.md))
+  - Actions that are considered as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./Handbook.md#35-ro-cooperation))
 - An employee is blocking the controls in such a way that others are unable to interact with them at all, no matter the employee's avatar.
   - You must warn an employee to back away from the controls. If they ignore your warning, you may terminate them. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
 - An employee is in a restricted area.
@@ -343,7 +343,7 @@ If one of these requirements is met, you are allowed to issue a KoS:
 
 Once you mark someone as KoS, please notify other guards on duty. Abusing the KOS system will result in a strike. Use it __within reason.__
 
-_*See [3.2 Warnings](./3.2%20Warnings.md) for actions that are considered destabilizing the ECFR._
+_*See [3.2 Warnings](./Handbook.md#32-warnings) for actions that are considered destabilizing the ECFR._
 
 ## 3.4 Restrictions
 You are **not**, unless stated otherwise, allowed to;
@@ -373,7 +373,7 @@ After 6 AM you are allowed to aid the reactor shutdown process for Task 5 if all
 
 You must warn an employee a total of 3 times before terminating them.
 - If an employee has been warned, and the task they were warned in was completed, the warnings carry over to the next task.
-- Upon termination, their warnings “Reset”, however you may mark them as KOS when the Shift KoS requirements are met (See [3.3 Shift KoS](./3.3%20Shift%20KoS.md))
+- Upon termination, their warnings “Reset”, however you may mark them as KOS when the Shift KoS requirements are met (See [3.3 Shift KoS](./Handbook.md#33-shift-kos))
 
 ## 3.6 Backup Requests
 If you think that you can’t handle the situation in-game, you can send a backup request to get some help. It should be noted that the backup request cooldown is 30 minutes, per server.
