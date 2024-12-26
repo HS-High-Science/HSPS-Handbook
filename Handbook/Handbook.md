@@ -300,16 +300,15 @@ Warnings are given out on a case-by-case basis, but these are the situations in 
   - If the employee ignores the warning, you may terminate them after 5 seconds. If they stop after your warning and then do it again, you may terminate them immediately.
 - An employee is attempting to destabilize the ECFR
   - Attempting to destabilize the ECFR is raising the temperature while the temperature is above 70,000 kelvin or lowering it when it's below 30,000 kelvin.
-   - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, exhaust system controls^ and trying to increase pump motor strain to dangerous levels.
-    - ^At any time of operations you can take control of the exhaust system controls if either of the buildups is above 40% and keep controlling them until both buildup levels are below 20%. During that time you can also warn employees putting either of the relief controls to 1 or 0.
-      - **Note:** Barium buildup level is to be ignored during operations.
+    - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, exhaust system controls and trying to increase pump motor strain to dangerous levels.
+      - At any time of operations you can take control of the exhaust system controls if helium buildup is above 40%, if the exhaust system load exceeds 50% or if the plasma temperature is outside safe limits (below 30 000 K or above 70 000 K) and keep controlling them until it's safe to stop. During that time you can also warn employees messing with the controls.
   - In situations where the temperature is above 80,000 kelvin or below 20,000 kelvin, warnings are not required and KoS is allowed, if a control is tampered with that conflicts with your objective.
   - If there are multiple employees near a control that has been messed with, you may warn the one closest to the control.
 - An employee is messing with Emergency Cooling Controls
   - Attempting to turn off the E-coolant pump power.
   - Attempting to waste E-coolant if it’s not necessary. Doing this is cause for immediate termination. Reactor Operators may use E-Coolant for faster completion of a task.
 - An employee is trying to prevent you or others from shutting down the ECFR during Code Black. It doesn't require warnings, KoS is allowed if they try to stop you.
-  - Actions that are considered as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./Handbook.md#35-ro-cooperation))
+  - Actions that are considered as interfering: messing with laser boost control, coolant controls, E-coolant controls, trying to increase pump motor strain to dangerous levels, and closing the button box to stop other employees from pressing the button. (See [3.5 RO Cooperation](./3.5%20RO%20Cooperation.md))
 - An employee is blocking the controls in such a way that others are unable to interact with them at all, no matter the employee's avatar.
   - You must warn an employee to back away from the controls. If they ignore your warning, you may terminate them. The time before killing an employee is up to discretion of the guard. If the situation is dire, you are permitted to kill them instantly.
 - An employee is in a restricted area.
@@ -331,7 +330,7 @@ You should **NOT** give warnings for the following actions:
 
 You are to issue up to a minimum of three verbal warnings before you are permitted to terminate a user for any reason listed above, unless stated otherwise.
 
-If an employee does something that warrants a warning, you must issue a warning to them, so that the enforcement of warnings by all guards is fair for all.
+If an employee does something that warrants a warning, you must issue a warning to them (unless stated otherwise), so that the enforcement of warnings by all guards is fair for all.
 
 ## 3.3 Shift KOS
 If some employees are intentionally trying to interrupt site operations by messing around, or are attempting to melt the core, you are allowed to issue a shift KoS. Shift KoS' are active until the shift ends and they get deactivated once a new shift begins.
@@ -353,7 +352,7 @@ You are **not**, unless stated otherwise, allowed to;
 3. Have a Roblox avatar that in any way shape or form gives you an unfair advantage in combat (_Such as narrow avatars or massively altered hitboxes_).
 4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or less **and** backup was called (Such actions will result in a disciplinary action).
 5. Leave the security team to purposely prevent data theft from occurring. This is a petty and cowardly tactic considering CF spent a good amount of robux or points on the gamepass/pack. **Do not be a sore looser.**
-6. Control the ECFR (excluding e-coolant controls) unless any of the below conditions are met:
+6. Control the ECFR (excluding exhaust system and e-coolant controls) unless any of the below conditions are met:
    - you are cooperating with Reactor Operators
    - you are preventing the pumps from straining
    - the "temperature low" or "temperature high" warnings on the reactor monitoring screen are active
