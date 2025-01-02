@@ -299,10 +299,11 @@ Warnings are the type of disciplinary action that you issue to employees when th
 Warnings are given out on a case-by-case basis, but these are the situations in which you can give warnings (Non-comprehensive list):
 - An employee is in your face, on your body or just being a general nuisance to you or others.
   - If the employee ignores the warning, you may terminate them after 5 seconds. If they stop after your warning and then do it again, you may terminate them immediately.
-- An employee is attempting to destabilize the ECFR
-  - Attempting to destabilize the ECFR is raising the temperature while the temperature is above 70,000 kelvin or lowering it when it's below 30,000 kelvin.
-    - Actions that are considered destabilizing: messing with laser boost control, coolant controls, E-coolant controls, exhaust system controls and trying to increase pump motor strain to dangerous levels.
-      - At any time of operations you can take control of the exhaust system controls if helium buildup is above 40%, if the exhaust system load exceeds 50% or if the plasma temperature is outside safe limits (below 30 000 K or above 70 000 K) and keep controlling them until it's safe to stop. During that time you can also warn employees messing with the controls.
+- An employee is attempting to destabilize the ECFR.
+  - "Attempting to destabilize the ECFR" means contributing to raising the ECFR temperature while it is above 70,000 kelvin or lowering it when it is below 30,000 kelvin.
+    - Actions that are considered destabilizing: messing with laser boost controls, coolant controls, E-coolant controls, exhaust system controls or trying to increase pump motor strain to dangerous levels.
+    - Attempting to break the exhaust system by opening either of the valves to maximum without the exh. system pump being active warrants 1 warning, after which the termination can be issued if the employee doesn't stop their actions.
+    - If the Helium buildup level has surpassed 70%, security can take control of the exhaust system to reduce the buildup down to 30%. During this time, employees that are trying to interfere in security guards' duties should be warned 3 times before the termination. **Within this context, turning off the main coolant pumps, exh. system coolant pump or closing the Helium vent valve counts as interfering.**
   - In situations where the temperature is above 80,000 kelvin or below 20,000 kelvin, warnings are not required and KoS is allowed, if a control is tampered with that conflicts with your objective.
   - If there are multiple employees near a control that has been messed with, you may warn the one closest to the control.
 - An employee is messing with Emergency Cooling Controls
@@ -394,17 +395,128 @@ OR
 
 - An official raid is active (hosted by the Chaos Forces Alliance)
 
-## 3.7 ECFR overheating prevention checklist.
-This is the approximate list of actions that Security personnel is expected to perform when they notice the ECFR temperature has exceeded 70,000 Kelvin.
+## 3.7 ECFR operations.
+This file will cover the most important aspects of Experimental Controlled-Fusion Reactor operations oversight.
 
+### ECFR parameters.
+This topic covers all of the ECFR parameters.
+
+#### Plasma Temperature.
+The primary ECFR parameter. It indicates how hot the plasma in the reactor is.  
+This parameter is measured in Kelvin.  
+**Security personnel is required to regularly check the value of this parameter.**  
+**During the normal operations, the value of this parameter should stay within 30,000 to 70,000 Kelvin range.**
+
+#### ECFR Reactivity.
+This parameter indicates how fast the plasma temperature changes.  
+The reactivity is measured in percent.  
+Negative reactivity indicates temperature decreasing, while the positive reactivity indicates the temperature increasing. Values close to zero indicate the temperature stability.  
+**Security personnel is required to regularly check the value of this parameter.**
+1% of reactivity is equivalent to 10 Kelvin per tick temperature change (1 tick is 4 real time seconds).
+
+#### ECFR Laser Boost.
+This parameter indicates the boost setting of the laser. It is also referred to as "Laser power".  
+This parameter is measured in percent.  
+The laser power is constantly fluctuating around a _setpoint_ regulated by the respective lever on the Laser Control Panel.  
+**This parameter directly influences the ECFR reactivity**.  
+The lowest values of this parameter are 0% _(while the laser is offline)_, less than 20% _(while the laser is online, low efficiency)_ and ~20% _(while the laser is online, peak efficiency)_.  
+The highest values of this parameter are ~60-70% _(low efficiency)_ and ~80-90% _(peak efficiency)_.
+
+#### ECFR Laser Pressure.
+This parameter indicates the pressure inside a single ECFR laser system.
+This parameter is measured in kilopascals (kPa).
+This parameter influences the growth of the laser temperature. The more pressure, the faster the temperature increases.
+Normal values of this parameter are ~100-200 kPa. After the pressure has surpassed 200 kPa, reactor operators can relieve it using the respective switch on the laser control panel.
+The value of this parameter depends on the laser boost. The more laser boost, the faster the pressure will grow.
+
+#### ECFR Laser Temperature.
+This parameter indicates the temperature of the laser internals.
+This parameter is measured in Kelvin.  
+There are two factors that influence the value of this parameter:
+- The laser boost setting. _The higher the boost, the faster the value is going to increase._
+- The laser coolant pump power setting. _The higher the pump power, the faster the value is going to decrease._  
+
+The _laser efficiency, which is documented below_ depends on the value of this parameter. In order to achieve peak laser efficiency, the laser temperature should stay within 450 to 750 Kelvin range, otherwise the laser efficiency will be significantly decreased.
+
+#### ECFR Laser Efficiency.
+This parameter indicates how efficient and powerful the ECFR laser is. It is very vague and subjective because there are no indicators that would display the value of this parameter, however there are a few pointers to help you determine the laser efficiency:
+- If the laser temperature is within the 450-750 Kelvin range, that means the laser efficiency is at its maximum.
+- If the laser boost setting is at maximum and the laser boost gauge displays values above 80%, that means the laser efficiency is at its maximum.
+- If the laser boost setting is at minimum and the laser boost gauge displays values below 20%, that means the laser efficiency is at its minumum.
+
+Consequently, **the laser efficiency indirectly affects the ECFR reactivity**.
+
+#### ECFR Laser Fuel.
+This parameter indicates the amount of fuel stored in the ECFR laser fuel feed system.  
+This parameter is measured in percent.  
+This parameter does not affect anything other than the approximate amount of ECFR operation time.  
+The _fuel consumption_ depends on two factors:
+- The laser efficiency. _The higher the efficiency, the lower the consumption_.
+- The laser boost. _The higher the laser boost, the higher the consumption_.
+
+Keep these factors in mind when using the fuel level to your advantage in emergency situations.
+
+#### ECFR Coolant Flow.
+This parameter indicates the volume of coolant liquid flowing through the ECFR per second.  
+This parameter is measured in cubic meters per second.  
+The minimum value of this parameter is 4 m^3/s @ 20% coolant flow setpoint. The maximum value of this parameter is 20 m^3/s @ 100% coolant flow setpoint.  
+**This parameter directly influences the ECFR reactivity**.
+
+#### Helium Buildup Level.
+This parameter indicates the amount of Helium contained within the ECFR.  
+This parameter is measured in percent.  
+**This parameter directly influences the ECFR reactivity. Security personnel is required to regularly check the value of this parameter.**  
+**The normal values of this parameter are within 30 to 50%.** Anything below may cause rapid temperature drop and anything above can cause its rapid increase.  
+The higher the ECFR temperature, the faster the Helium buildup is going to increase.  
+
+#### Barium Buildup Level.
+This parameter indicates the amount of Barium contained within the ECFR.  
+This parameter is measured in percent.  
+**This parameter directly influences the ECFR reactivity. Security personnel is required to regularly check the value of this parameter.**  
+**The normal values of this parameter depend on the current condition of the ECFR and intentions of the Security personnel.** The higher the Barium buildup, the lower the reactivity of the ECFR.
+
+### ECFR systems.
+This topic covers all of the ECFR systems, their significance for Security personnel as well as their influence on operations.
+
+#### ECFR Safeguards.
+_This system is currently Work In Progress..._
+
+#### ECFR Lasers.
+The ECFR has a set of four reactor lasers designed to directly control the reactivity.  
+The parameter responsible for altering the reactivity is *laser boost*. The higher the laser boost, the higher the reactivity.  
+This system influences the reactor operations insignificantly. During an emergency, this system generally has the lowest priority for a security guard.
+
+#### ECFR Main Coolant Pumps.
+The ECFR has a set of two main coolant pumps designed to directly control the reactivity and keep the ECFR systems cool.  
+The parameter responsible for altering the reactivity is *coolant flow*. The higher the coolant flow, the lower the reactivity.  
+Security personnel is required to regularly check the *coolant pump strain level*, which is affected by the flow setpoint.  
+**In case of high strain alarm sounding, the Security personnel is required to immediately turn the coolant pump(s) off or lower the flow setpoint to minimum, depending on the overall status, to drop the strain level.** Ignoring the high strain alarm may lead to coolant pump motor failure and its unavailability. Engineer personnel is able to repair the coolant pump motor(s).  
+**This system causes significant influence on the reactor operations. During an emergency, this system, as well as the exhaust system (described below), generally has the highest priority for a security guard.**
+
+#### ECFR Exhaust System.
+The ECFR has the exhaust system in place to rapidly and effectively fight off the *Helium buildup* and, consequently, to decrease the ECFR reactivity.  
+The exhaust system has 3 controls: the exhaust system coolant pump, the Helium vent valve and the Barium injection valve.
+- The *exhaust system coolant pump* is the primary component of the entire exhaust system. It cools down the exhaust system down to 300 Kelvin. **The effectiveness of this pump is dependent on the main coolant pump power. The higher it is, the more powerful the exhaust system pump gets. If the main coolant pumps are off, this pump is useless.**
+- The *Barium injection valve* controls the amount of Barium being injected into the ECFR. Barium itself is responsible for reducing the reactivity. It does **not** affect the Helium buildup level. **Injecting Barium causes the exhaust system load to increase, without increasing its temperature.**
+- The *Helium vent valve* controls the amount of Helium being vented out of the ECFR. Helium itself is responsible for increasing the reactivity. It is **not** dependent on the Barium buildup level. **Venting Helium causes the exhaust system temperature to increase, without increasing its load.**
+
+There are a few important aspects to note about the ECFR exhaust system.
+- **If the exhaust system has failed, it will be unavailable for 1 minute.**
+- The normal operating temperature for the exhaust system is within the range of 300 to 500 Kelvin. 300K is the lowest temperature you can achieve in this system. **Temperature above 500K will cause the exhaust system load to increase**. From this point, **the hotter the exhaust system, the faster the load will increase.** The upper limit for the exhaust system temperature is 678 Kelvin. The exhaust system is able to be naturally cooled down if the Helium vent valve is closed.
+- The normal operating load for the exhaust system is within the range of 0 to 90%. The exhaust system load does not affect its temperature. **After the load has surpassed 90%, it enters an uncontrollable runaway state, resulting in the exhaust system failure.**
+- In order for the load to decrease, the Barium injection valve should stay closed and the exhaust system temperature should stay below 500 Kelvin.
+
+### ECFR Emergency Operation Procedures.
+
+#### ECFR Overheating prevention checklist.
 1. REPORT to the Reactor Control Room immediately if there is no security personnel posted there.
 2. REDUCE the power of every laser to 20%.
 3. SWITCH both main core coolant pumps to ON, TURN the coolant pump power to maximum on both pumps.
 4. SWITCH the exhaust system coolant pump to ON.
 5. TURN the Helium vent and Barium injection valves to 3.
 6. MAINTAIN the laser power at 20%, coolant pumps power at 100%, exhaust system pump ON, both exhaust system valves on 3.
-7. MONITOR the exhaust system temperature <450 Kelvin and exhaust system load <50%.
-8. ONCE the exhaust system load has exceeded 50%, TURN both exhaust system valves to 2.
+7. MONITOR the exhaust system temperature <450 Kelvin and exhaust system load <60%.
+8. ONCE the exhaust system load has exceeded 60%, TURN Barium injection valve to 2 or 1.
 9. REPEAT STEP 6, MONITOR the exhaust system temperature <450 Kelvin and exhaust system load climbing slowly.
 10. OBSERVE Helium buildup level dropping, OBSERVE ECFR reactivity dropping.
 11. ONCE the ECFR reactivity has lowered <40%, TURN the exhaust system valves to 0.
