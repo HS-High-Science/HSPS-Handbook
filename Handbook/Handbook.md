@@ -42,7 +42,8 @@ This is not to be mistaken for misunderstanding the rules. It is sometimes obvio
 
 ### Rule 9: Only go on duty on PC.
 - You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations
-## Rule 9: Notify the HSPS developers if you are planning to change your Roblox username.
+
+### Rule 10: Notify the HSPS developers if you are planning to change your Roblox username.
 - HSPS and HSPS Manager in particular heavily rely on the database system. Upon registration, your Roblox username is saved in the database. **The username changes are not tracked automatically.** Please notify the HSPS developers of your username change **in advance** to prevent desync and other unwanted behavior.
 
 
