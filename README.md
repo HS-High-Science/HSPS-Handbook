@@ -43,7 +43,7 @@
 
 [Section 3.6 - Backup Requests](Handbook/Section%203%20-%20Operations/3.6%20Backup%20Requests.md)
 
-[Section 3.7 - Overheating prevention checklist](Handbook/Section%203%20-%20Operations/3.7%20Overheating%20prevention%20checklist.md)
+[Section 3.7 - ECFR operations](Handbook/Section%203%20-%20Operations/3.7%20ECFR%20operations.md)
 
 #### Section 4 - Miscellaneous
 [Section 4.1 - MRT](Handbook/Section%204%20-%20Miscellaneous/4.1%20MRT.md)
