@@ -293,10 +293,10 @@ Code Black is active if:
 You should prioritize aborting FFD (shut down servers) and/or shutting down the ECFR, however use your best judgement to determine the best course of action.
 
 ## 3.2 Warnings
-Warnings are the type of disciplinary action that you issue to employees when they are being a nuisance to you and other players.
+Warnings are the type of disciplinary action that you issue to employees when they are interrupting the regular facility operations.
 
-### When Can I Give Warnings?
-Warnings are given out on a case-by-case basis, but these are the situations in which you can give warnings (Non-comprehensive list):
+### When Should I Give Warnings?
+Warnings are given out on a case-by-case basis, but below are the situations in which you should definitely issue warnings (Non-comprehensive list):
 - An employee is in your face, on your body or just being a general nuisance to you or others.
   - If the employee ignores the warning, you may terminate them after 5 seconds. If they stop after your warning and then do it again, you may terminate them immediately.
 - An employee is attempting to destabilize the ECFR.
