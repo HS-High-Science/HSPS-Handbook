@@ -332,7 +332,7 @@ You should **NOT** give warnings for the following actions:
 
 You are to issue up to a minimum of three verbal warnings before you are permitted to terminate a user for any reason listed above, unless stated otherwise.
 
-If an employee does something that warrants a warning, you must issue a warning to them (unless stated otherwise), so that the enforcement of warnings by all guards is fair for all.
+If an employee does something that warrants a warning, you must issue a warning to them (unless stated otherwise), so that the enforcement of warnings by all guards is fair for everyone.
 
 ## 3.3 Shift KOS
 If some employees are intentionally trying to interrupt site operations by messing around, or are attempting to melt the core, you are allowed to issue a shift KoS. Shift KoS' are active until the shift ends and they get deactivated once a new shift begins.
