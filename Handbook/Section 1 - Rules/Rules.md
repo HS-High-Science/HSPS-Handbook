@@ -29,14 +29,20 @@ You as a member of HSPS are representing not just yourself but HSPS as a whole. 
 ## Rule 6: No Disrespect.
 - HSPS operates under a structured hierarchy of ranks. However, a person’s rank does not warrant disrespect towards fellow members. Instructors are expected to give the same level of respect to a Cadet as a Cadet would to them. **Every member is obligated to treat others with respect, regardless of their rank**. This principle extends beyond internal HSPS interactions. Any form of aggression or disrespect towards other individuals or groups of people, whether in or outside of HSPS, will not be tolerated. Mutual respect and being the better person is expected out of every member of HSPS. If someone is disrespectful to you, you are encouraged to gather evidence and report them. Starting or keeping up disrespectful arguments is prohibited.
 
-## Rule 7: No Loopholes/Bending the Rules.
+## Rule 7: Use Your Brain.
+- Even though the handbook covers a lot of aspects of Security personnel duties, you should still note that there are going to be situations in which you will have to rely on yourself and your experience, think logically and make rational decisions. Before taking action, think twice about what action would resolve the situation in the best way.
+
+## Rule 8: No Loopholes/Bending the Rules.
 - We are aware that certain individuals may attempt to exploit loopholes or “gray areas” in the rules, in an attempt to circumvent regulation. Such behavior will not be condoned. Swift and severe consequences will be administered to those found attempting to manipulate the rules for their own personal gain.
 Rules against loopholes are often ridiculed, but it is a different way of saying “Don’t abuse mistakes made when the guidelines were written.”. For an example, if the rule says "KoS is allowed if the core is above 80.000K", obviously it means 80 thousand kelvin, not 80 kelvin, and you should not abuse the fact that there's a period instead of a comma. Instead, you should report this mistake, so that those who are not as mature as yourself cannot abuse the rule.
 Maliciously attempting to find loopholes within the rules will result in disciplinary action.
 This is not to be mistaken for misunderstanding the rules. It is sometimes obvious if a misunderstanding is intentional or not.
 
-## Rule 8: Only go on duty on PC.
+## Rule 9: Only go on duty on PC.
 - You are only permitted to go on duty using a PC (Laptop or Desktop). This is to ensure that we do not encounter any issues that can affect us while patrolling. Mobile devices and consoles have been disallowed due to them having their own limitations
+
+## Rule 10: Notify the HSPS developers if you are planning to change your Roblox username.
+- HSPS and HSPS Manager in particular heavily rely on the database system. Upon registration, your Roblox username is saved in the database. **The username changes are not tracked automatically.** Please notify the HSPS developers of your username change **in advance** to prevent desync and other unwanted behavior.
 
 
 # HS Rules
