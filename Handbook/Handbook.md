@@ -400,7 +400,7 @@ OR
 - An official raid is active (hosted by the Chaos Forces Alliance)
 
 ## 3.7 ECFR operations.
-This file will cover the most important aspects of Experimental Controlled-Fusion Reactor operations oversight.
+This section will cover the most important aspects of Experimental Controlled-Fusion Reactor operations oversight.
 
 ### ECFR parameters.
 This topic covers all of the ECFR parameters.
@@ -418,13 +418,20 @@ Negative reactivity indicates temperature decreasing, while the positive reactiv
 **Security personnel is required to regularly check the value of this parameter.**
 1% of reactivity is equivalent to 10 Kelvin per tick temperature change (1 tick is 4 real time seconds).
 
-#### ECFR Laser Boost.
-This parameter indicates the boost setting of the laser. It is also referred to as "Laser power".  
+#### ECFR Laser Power Boost.
+This parameter indicates the boost setting of the laser. It is distinct from the actual laser power.
 This parameter is measured in percent.  
-The laser power is constantly fluctuating around a _setpoint_ regulated by the respective lever on the Laser Control Panel.  
-**This parameter directly influences the ECFR reactivity**.  
-The lowest values of this parameter are 0% _(while the laser is offline)_, less than 20% _(while the laser is online, low efficiency)_ and ~20% _(while the laser is online, peak efficiency)_.  
-The highest values of this parameter are ~60-70% _(low efficiency)_ and ~80-90% _(peak efficiency)_.
+The laser power boost is regulated by the power boost lever on the Laser Control Panel.
+This parameter directly influences laser power.
+The lowest possible value of this parameter is 20%.
+The highest possible value of this parameter is 100%.
+
+#### ECFR Laser Power.
+This parameter indicates the actual power of the laser and is displayed only when the laser is online.
+This parameter is measured in percent.
+The laser power is constantly fluctuating around the laser power boost setting of the respective laser. 
+**This parameter directly influences the helium buildup**.
+Note that the laser power can be lower than 20%, which is the minumum laser power boost.
 
 #### ECFR Laser Pressure.
 This parameter indicates the pressure inside a single ECFR laser system.
@@ -472,12 +479,14 @@ This parameter is measured in percent.
 **This parameter directly influences the ECFR reactivity. Security personnel is required to regularly check the value of this parameter.**  
 **The normal values of this parameter are within 30 to 50%.** Anything below may cause rapid temperature drop and anything above can cause its rapid increase.  
 The higher the ECFR temperature, the faster the Helium buildup is going to increase.  
+*Read further for instructions on managing the Helium buildup level.*
 
 #### Barium Buildup Level.
 This parameter indicates the amount of Barium contained within the ECFR.  
 This parameter is measured in percent.  
 **This parameter directly influences the ECFR reactivity. Security personnel is required to regularly check the value of this parameter.**  
 **The normal values of this parameter depend on the current condition of the ECFR and intentions of the Security personnel.** The higher the Barium buildup, the lower the reactivity of the ECFR.
+*Read further for instructions on managing the Barium buildup level.*
 
 ### ECFR systems.
 This topic covers all of the ECFR systems, their significance for Security personnel as well as their influence on operations.
@@ -499,8 +508,8 @@ Security personnel is required to regularly check the *coolant pump strain level
 
 #### ECFR Exhaust System.
 The ECFR has the exhaust system in place to rapidly and effectively fight off the *Helium buildup* and, consequently, to decrease the ECFR reactivity.  
-The exhaust system has 3 controls: the exhaust system coolant pump, the Helium vent valve and the Barium injection valve.
-- The *exhaust system coolant pump* is the primary component of the entire exhaust system. It cools down the exhaust system down to 300 Kelvin. **The effectiveness of this pump is dependent on the main coolant pump power. The higher it is, the more powerful the exhaust system pump gets. If the main coolant pumps are off, this pump is useless.**
+The exhaust system has 3 controls: the exhaust system cooling, the Helium vent valve and the Barium injection valve.
+- The *exhaust system cooling* is the primary component of the entire exhaust system. It cools down the exhaust system down to 300 Kelvin. **The effectiveness of it is dependent on the main coolant pump power. The higher it is, the more powerful the exhaust system cooling gets. If the main coolant pumps are off, the exhaust system cooling is useless.**
 - The *Barium injection valve* controls the amount of Barium being injected into the ECFR. Barium itself is responsible for reducing the reactivity. It does **not** affect the Helium buildup level. **Injecting Barium causes the exhaust system load to increase, without increasing its temperature.**
 - The *Helium vent valve* controls the amount of Helium being vented out of the ECFR. Helium itself is responsible for increasing the reactivity. It is **not** dependent on the Barium buildup level. **Venting Helium causes the exhaust system temperature to increase, without increasing its load.**
 
@@ -516,9 +525,9 @@ There are a few important aspects to note about the ECFR exhaust system.
 1. REPORT to the Reactor Control Room immediately if there is no security personnel posted there.
 2. REDUCE the power of every laser to 20%.
 3. SWITCH both main core coolant pumps to ON, TURN the coolant pump power to maximum on both pumps.
-4. SWITCH the exhaust system coolant pump to ON.
+4. SWITCH the exhaust system cooling to ON.
 5. TURN the Helium vent and Barium injection valves to 3.
-6. MAINTAIN the laser power at 20%, coolant pumps power at 100%, exhaust system pump ON, both exhaust system valves on 3.
+6. MAINTAIN the laser power at 20%, coolant pumps power at 100%, exhaust system cooling ON, both exhaust system valves on 3.
 7. MONITOR the exhaust system temperature <450 Kelvin and exhaust system load <60%.
 8. ONCE the exhaust system load has exceeded 60%, TURN Barium injection valve to 2 or 1.
 9. REPEAT STEP 6, MONITOR the exhaust system temperature <450 Kelvin and exhaust system load climbing slowly.
