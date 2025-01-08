@@ -98,13 +98,13 @@ How to obtain:
 - Pass the cadet academy.
 
 #### Guardsman (GDM)
-Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced uniform” (only during Code Orange and above).
+Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced uniform”.
 How to obtain: 
 - Be active and don’t cause trouble.
 - 40 Points + 10 In-Game Hours.
 
 #### Senior Guardsman (SG)
-Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earn this rank. They are permitted to wear the “Riot uniform” (only during Code Orange and above).
+Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earn this rank. They are permitted to wear the “Riot uniform” **(only during Code Orange and above)**.
 How to obtain: 
 - Fulfill the previous requirements, but step it up a little.
 - 90 Points + 20 In-Game Hours.
@@ -119,7 +119,7 @@ How to obtain:
 ### Middle Ranks
 
 #### Specialist (SPC)
-Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host and host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform” (only during Code Orange and above).
+Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host and host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform”.
 How to obtain: 
 - Fulfill the previous requirements 
 - Be an upstanding guard
@@ -356,7 +356,7 @@ You are **not**, unless stated otherwise, allowed to;
 1. Go into the facility vents - they are intended for CF (_Climbing onto the vent hatch is permitted for vent peeking, however standing on the vent hatch for prolonged periods of time is prohibited._).
 2. Facilitate an instability event (reactor meltdown, FFD, etc.) (_Unless an administrator is conducting a server vote and this event won the vote, or if a pre-command member orders it._).
 3. Have a Roblox avatar that in any way shape or form gives you an unfair advantage in combat (_Such as narrow avatars or massively altered hitboxes_).
-4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or less **and** backup was called (Such actions will result in a disciplinary action).
+4. Join the Chaos Forces team if the Security:CF ratio is 1:1.5 or less **and** backup was called (Such actions will result in a disciplinary action).
 5. Leave the security team to purposely prevent data theft from occurring. This is a petty and cowardly tactic considering CF spent a good amount of robux or points on the gamepass/pack. **Do not be a sore looser.**
 6. Control the ECFR (excluding exhaust system and e-coolant controls) unless any of the below conditions are met:
    - you are cooperating with Reactor Operators
@@ -400,7 +400,7 @@ OR
 - An official raid is active (hosted by the Chaos Forces Alliance)
 
 ## 3.7 ECFR operations.
-This file will cover the most important aspects of Experimental Controlled-Fusion Reactor operations oversight.
+This section will cover the most important aspects of Experimental Controlled-Fusion Reactor operations oversight.
 
 ### ECFR parameters.
 This topic covers all of the ECFR parameters.
@@ -418,13 +418,20 @@ Negative reactivity indicates temperature decreasing, while the positive reactiv
 **Security personnel is required to regularly check the value of this parameter.**
 1% of reactivity is equivalent to 10 Kelvin per tick temperature change (1 tick is 4 real time seconds).
 
-#### ECFR Laser Boost.
-This parameter indicates the boost setting of the laser. It is also referred to as "Laser power".  
+#### ECFR Laser Power Boost.
+This parameter indicates the boost setting of the laser. It is distinct from the actual laser power.  
 This parameter is measured in percent.  
-The laser power is constantly fluctuating around a _setpoint_ regulated by the respective lever on the Laser Control Panel.  
-**This parameter directly influences the ECFR reactivity**.  
-The lowest values of this parameter are 0% _(while the laser is offline)_, less than 20% _(while the laser is online, low efficiency)_ and ~20% _(while the laser is online, peak efficiency)_.  
-The highest values of this parameter are ~60-70% _(low efficiency)_ and ~80-90% _(peak efficiency)_.
+The laser power boost is regulated by the power boost lever on the Laser Control Panel.  
+This parameter directly influences laser power.  
+The lowest possible value of this parameter is 20%.  
+The highest possible value of this parameter is 100%.
+
+#### ECFR Laser Power.
+This parameter indicates the actual power of the laser and is displayed only when the laser is online.
+This parameter is measured in percent.
+The laser power is constantly fluctuating around the laser power boost setting of the respective laser. 
+**This parameter directly influences the helium buildup**.
+Note that the laser power can be lower than 20%, which is the minumum laser power boost.
 
 #### ECFR Laser Pressure.
 This parameter indicates the pressure inside a single ECFR laser system.
@@ -472,12 +479,14 @@ This parameter is measured in percent.
 **This parameter directly influences the ECFR reactivity. Security personnel is required to regularly check the value of this parameter.**  
 **The normal values of this parameter are within 30 to 50%.** Anything below may cause rapid temperature drop and anything above can cause its rapid increase.  
 The higher the ECFR temperature, the faster the Helium buildup is going to increase.  
+*Read further for instructions on managing the Helium buildup level.*
 
 #### Barium Buildup Level.
 This parameter indicates the amount of Barium contained within the ECFR.  
 This parameter is measured in percent.  
 **This parameter directly influences the ECFR reactivity. Security personnel is required to regularly check the value of this parameter.**  
 **The normal values of this parameter depend on the current condition of the ECFR and intentions of the Security personnel.** The higher the Barium buildup, the lower the reactivity of the ECFR.
+*Read further for instructions on managing the Barium buildup level.*
 
 ### ECFR systems.
 This topic covers all of the ECFR systems, their significance for Security personnel as well as their influence on operations.
@@ -499,16 +508,28 @@ Security personnel is required to regularly check the *coolant pump strain level
 
 #### ECFR Exhaust System.
 The ECFR has the exhaust system in place to rapidly and effectively fight off the *Helium buildup* and, consequently, to decrease the ECFR reactivity.  
-The exhaust system has 3 controls: the exhaust system coolant pump, the Helium vent valve and the Barium injection valve.
-- The *exhaust system coolant pump* is the primary component of the entire exhaust system. It cools down the exhaust system down to 300 Kelvin. **The effectiveness of this pump is dependent on the main coolant pump power. The higher it is, the more powerful the exhaust system pump gets. If the main coolant pumps are off, this pump is useless.**
+The exhaust system has 3 controls: the exhaust system cooling, the Helium vent valve and the Barium injection valve.
+- The *exhaust system cooling* is the primary component of the entire exhaust system. It cools down the exhaust system down to 300 Kelvin. **The effectiveness of it is dependent on the main coolant pump power. The higher it is, the more powerful the exhaust system cooling gets. If the main coolant pumps are off, the exhaust system cooling is useless.**
 - The *Barium injection valve* controls the amount of Barium being injected into the ECFR. Barium itself is responsible for reducing the reactivity. It does **not** affect the Helium buildup level. **Injecting Barium causes the exhaust system load to increase, without increasing its temperature.**
 - The *Helium vent valve* controls the amount of Helium being vented out of the ECFR. Helium itself is responsible for increasing the reactivity. It is **not** dependent on the Barium buildup level. **Venting Helium causes the exhaust system temperature to increase, without increasing its load.**
 
 There are a few important aspects to note about the ECFR exhaust system.
 - **If the exhaust system has failed, it will be unavailable for 1 minute.**
+- **The exhaust system is inoperable during a blackout event.**
 - The normal operating temperature for the exhaust system is within the range of 300 to 500 Kelvin. 300K is the lowest temperature you can achieve in this system. **Temperature above 500K will cause the exhaust system load to increase**. From this point, **the hotter the exhaust system, the faster the load will increase.** The upper limit for the exhaust system temperature is 678 Kelvin. The exhaust system is able to be naturally cooled down if the Helium vent valve is closed.
 - The normal operating load for the exhaust system is within the range of 0 to 90%. The exhaust system load does not affect its temperature. **After the load has surpassed 90%, it enters an uncontrollable runaway state, resulting in the exhaust system failure.**
 - In order for the load to decrease, the Barium injection valve should stay closed and the exhaust system temperature should stay below 500 Kelvin.
+
+### ECFR Emergency Coolant System.
+The ECFR emergency coolant system (also known as the E-coolant system) is used to inject the emergency coolant solution into the ECFR to **rapidly reduce the reactivity**.  
+It is comprised of 3 key components: the *E-coolant tank*, used to store the solution, the *E-coolant pump*, used to fill the E-coolant tank, and the *E-coolant discharge pump*, used to inject the E-coolant solution into the ECFR.  
+The Emergency coolant tank can be filled by engaging the E-coolant pump motor, opening the pump valve and turning on the pump. The pump fills the tank at a rate of 4 m^3/s. **Make sure that the E-coolant pump is always ON, unless the tank is already full.**  
+**Prerequisites to activating the E-coolant system:**
+- The ECFR temperature is above 70,000 Kelvin.
+- The Emergency coolant tank is at least 50% full.
+
+The E-coolant system can be activated by turning the "Emergency Cooling" switch on the E-coolant control panel and pushing the guarded "Emergency Cooling Discharge" button.  
+**Use the Emergency coolant system wisely. It is advised that you do not waste it, and do not let the employees waste it too, if there is actually no emergency present.**
 
 ### ECFR Emergency Operation Procedures.
 
@@ -516,9 +537,9 @@ There are a few important aspects to note about the ECFR exhaust system.
 1. REPORT to the Reactor Control Room immediately if there is no security personnel posted there.
 2. REDUCE the power of every laser to 20%.
 3. SWITCH both main core coolant pumps to ON, TURN the coolant pump power to maximum on both pumps.
-4. SWITCH the exhaust system coolant pump to ON.
+4. SWITCH the exhaust system cooling to ON.
 5. TURN the Helium vent and Barium injection valves to 3.
-6. MAINTAIN the laser power at 20%, coolant pumps power at 100%, exhaust system pump ON, both exhaust system valves on 3.
+6. MAINTAIN the laser power at 20%, coolant pumps power at 100%, exhaust system cooling ON, both exhaust system valves on 3.
 7. MONITOR the exhaust system temperature <450 Kelvin and exhaust system load <60%.
 8. ONCE the exhaust system load has exceeded 60%, TURN Barium injection valve to 2 or 1.
 9. REPEAT STEP 6, MONITOR the exhaust system temperature <450 Kelvin and exhaust system load climbing slowly.
@@ -556,21 +577,6 @@ White Night regulations are as follows;
 - The protocol can be active for a maximum of 15 minutes and **must** be lifted within 2 minutes of ECFR reaching safe temperatures (25,000K to 70,000 K)
 - The Coolant Pump Room may also be locked down.
 - The employee carrying the e-shutdown key can be whitelisted and let into the control room as long as their intention is not to destabilize the reactor.
-
-### Operation Fortitude
-**Operation Fortitude** can be issued by **Specialist+.**
-You can issue Operation Fortitude when the following requirements are met:
-1. The Code is Blue or lower.
-2. There are CFs targeting a specific vital area.
-3. The ratio of Security to CF is maximum 1:2
-4. There are at least 3 security on duty.
-5. Security is unable to secure the area CF are holding.
-
-Fortitude regulations are as follows;
-- Notify on-duty security (either in team chat or voice chat) that the protocol is active.
-- All guards can put on any armor available to them.
-- Fortitude may be active for a maximum of 10 minutes, or until the region is secure for at least 5 minutes.
-- There is a cooldown of 30 minutes from when the protocol gets lifted.
 
 ## 4.3 Private Server Regulations
 
