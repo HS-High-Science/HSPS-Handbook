@@ -98,13 +98,13 @@ How to obtain:
 - Pass the cadet academy.
 
 #### Guardsman (GDM)
-Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced uniform” (only during Code Orange and above).
+Guardsman is one of the ranks in HSPS. Guardsmen gain the ability to issue orders to lower-ranked guards, as well as lead others. They are permitted to wear the “Advanced uniform”.
 How to obtain: 
 - Be active and don’t cause trouble.
 - 40 Points + 10 In-Game Hours.
 
 #### Senior Guardsman (SG)
-Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earn this rank. They are permitted to wear the “Riot uniform” (only during Code Orange and above).
+Senior Guardsman is the second highest of the low ranks in HSPS. Senior Guardsmen have shown great activity and knowledge traits to have earn this rank. They are permitted to wear the “Riot uniform” **(only during Code Orange and above)**.
 How to obtain: 
 - Fulfill the previous requirements, but step it up a little.
 - 90 Points + 20 In-Game Hours.
@@ -119,7 +119,7 @@ How to obtain:
 ### Middle Ranks
 
 #### Specialist (SPC)
-Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host and host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform” (only during Code Orange and above).
+Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host and host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform”.
 How to obtain: 
 - Fulfill the previous requirements 
 - Be an upstanding guard
@@ -356,7 +356,7 @@ You are **not**, unless stated otherwise, allowed to;
 1. Go into the facility vents - they are intended for CF (_Climbing onto the vent hatch is permitted for vent peeking, however standing on the vent hatch for prolonged periods of time is prohibited._).
 2. Facilitate an instability event (reactor meltdown, FFD, etc.) (_Unless an administrator is conducting a server vote and this event won the vote, or if a pre-command member orders it._).
 3. Have a Roblox avatar that in any way shape or form gives you an unfair advantage in combat (_Such as narrow avatars or massively altered hitboxes_).
-4. Join the Chaos Forces team if the Security:CF ratio is 1:2 or less **and** backup was called (Such actions will result in a disciplinary action).
+4. Join the Chaos Forces team if the Security:CF ratio is 1:1.5 or less **and** backup was called (Such actions will result in a disciplinary action).
 5. Leave the security team to purposely prevent data theft from occurring. This is a petty and cowardly tactic considering CF spent a good amount of robux or points on the gamepass/pack. **Do not be a sore looser.**
 6. Control the ECFR (excluding exhaust system and e-coolant controls) unless any of the below conditions are met:
    - you are cooperating with Reactor Operators
@@ -515,6 +515,7 @@ The exhaust system has 3 controls: the exhaust system cooling, the Helium vent v
 
 There are a few important aspects to note about the ECFR exhaust system.
 - **If the exhaust system has failed, it will be unavailable for 1 minute.**
+- **The exhaust system is inoperable during a blackout event.**
 - The normal operating temperature for the exhaust system is within the range of 300 to 500 Kelvin. 300K is the lowest temperature you can achieve in this system. **Temperature above 500K will cause the exhaust system load to increase**. From this point, **the hotter the exhaust system, the faster the load will increase.** The upper limit for the exhaust system temperature is 678 Kelvin. The exhaust system is able to be naturally cooled down if the Helium vent valve is closed.
 - The normal operating load for the exhaust system is within the range of 0 to 90%. The exhaust system load does not affect its temperature. **After the load has surpassed 90%, it enters an uncontrollable runaway state, resulting in the exhaust system failure.**
 - In order for the load to decrease, the Barium injection valve should stay closed and the exhaust system temperature should stay below 500 Kelvin.
@@ -565,21 +566,6 @@ White Night regulations are as follows;
 - The protocol can be active for a maximum of 15 minutes and **must** be lifted within 2 minutes of ECFR reaching safe temperatures (25,000K to 70,000 K)
 - The Coolant Pump Room may also be locked down.
 - The employee carrying the e-shutdown key can be whitelisted and let into the control room as long as their intention is not to destabilize the reactor.
-
-### Operation Fortitude
-**Operation Fortitude** can be issued by **Specialist+.**
-You can issue Operation Fortitude when the following requirements are met:
-1. The Code is Blue or lower.
-2. There are CFs targeting a specific vital area.
-3. The ratio of Security to CF is maximum 1:2
-4. There are at least 3 security on duty.
-5. Security is unable to secure the area CF are holding.
-
-Fortitude regulations are as follows;
-- Notify on-duty security (either in team chat or voice chat) that the protocol is active.
-- All guards can put on any armor available to them.
-- Fortitude may be active for a maximum of 10 minutes, or until the region is secure for at least 5 minutes.
-- There is a cooldown of 30 minutes from when the protocol gets lifted.
 
 ## 4.3 Private Server Regulations
 
