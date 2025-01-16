@@ -251,7 +251,7 @@ Code Green indicates there is no imminent threat within the facility and the fac
 - At the start of the shift.
 - If no facility destruction methods are being prepared in any way.
 
-You are permitted to help operators with any questions they may have and help with running the ECFR. You should also defend the facility from CF, focus on Warhead, FFD and ECFR. If there are no CF, you can play checkers in the security zone.
+You are permitted to help operators with any questions they may have and help with running the ECFR. You should also defend the facility from CF, focus on Warhead, FFD and ECFR.
 
 ### Code Blue
 Code Blue means there is a minor threat within the facility that may escalate if it is not dealt with. Code Blue is active if:
@@ -364,6 +364,9 @@ You are **not**, unless stated otherwise, allowed to;
    - the "temperature low" or "temperature high" warnings on the reactor monitoring screen are active
    - any of the red warnings on the monitoring panels is active
    - any other rules allow you to use the controls (for example the exhaust system rules)
+7. Play checkers outside of security zone.
+8. Play checkers when it is currently Code Blue+ and there are Chaos Forces present on the server.
+   - You are allowed to play checkers during Code Green/Blue when there are no Chaos Forces present. **Note: You are still responsible for the safety of the facility while playing checkers.** For example, if the employees melt the ECFR because they broke the pumps while you were playing checkers, you are liable to be punished for negligence.
 
 ## 3.5 R.O. Cooperation
 At any point you may ask the Reactor Operators for cooperation and confirm it when the requirements below are met.
