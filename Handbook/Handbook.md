@@ -388,7 +388,8 @@ You must warn an employee a total of 3 times before terminating them.
 - Upon termination, their warnings “Reset”, however you may mark them as KOS when the Shift KoS requirements are met (See [3.3 Shift KoS](./Handbook.md#33-shift-kos))
 
 ## 3.6 Backup Requests
-If you think that you can’t handle the situation in-game, you can send a backup request to get some help. It should be noted that the backup request cooldown is 30 minutes, per server.
+If you think that you can’t handle the situation in-game, you can send a backup request to get some help. It should be noted that the backup request cooldown is 30 minutes, per server. 
+_If you wish to be notified about the backup requests you can run Dyno's `/rank backup` command to receive the respective ping role. Same goes for the other ping roles._  
 - When requesting backup, please supply your Roblox profile link so people can join through it, and make sure your joins are enabled for everyone.
   - Other forms of supplying a method of joining the game, like RoPro, are also allowed.
   - If you don't include a profile link or an invite link to the server, don't forget to mention a way to join you.
