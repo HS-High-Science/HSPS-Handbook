@@ -119,7 +119,7 @@ How to obtain:
 ### Middle Ranks
 
 #### Specialist (SPC)
-Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host and host HSPS-wide patrols and co-host Cadet Stage 3 events. They are permitted to wear the “Heavy uniform”.
+Specialist is the first MR position. Specialists are expected to be competent leaders and lead lower-ranked guards into battle. They are allowed to co-host and host HSPS-wide patrols and co-host Cadet Tours. They are permitted to wear the “Heavy uniform”.
 How to obtain: 
 - Fulfill the previous requirements 
 - Be an upstanding guard
@@ -128,7 +128,7 @@ How to obtain:
 - Have Active Commendations (Recommended).
 
 #### Senior Specialist (SSPC)
-Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host Cadet Stage 3 events on their own.
+Senior Specialists are individuals who have proven themselves to be capable of leading others without a second thought. Senior Specialists unlock the ability to host Cadet Tours on their own.
 How to obtain: 
 - Fulfill the previous requirements 
 - Demonstrate that you can lead others 
@@ -169,7 +169,7 @@ The Director is the Leader of HSPS, only outranked by the Owner of High Science,
 Here at HSPS, we have a disciplinary system that all members of Pre-Command+ stick to. Disciplinary actions are given at the discretion of Officers and Pre-Command+.
 
 ### Commendations
-Commendations are issued at the discretion of Officers and above when something you did was considered exemplary. Commendations are only issued when such behavior is witnessed and they do not require hard evidence. Commendations get removed three months after they have been issued.
+Commendations are issued at the discretion of Officers and above when something you did was considered exemplary. Commendations are only issued when such behavior is witnessed and they do not require hard evidence. Commendations get removed three months (90 days) after they have been issued.
 
 ### Reprimands
 Reprimands are issued at the discretion of Officers and above when something you did was considered incorrect, negligent, or generally frowned upon. You don’t have to specifically get a reprimand for breaking rules, but rather your general actions. Reprimands get removed three months after they have been issued.
@@ -257,7 +257,8 @@ You are permitted to help operators with any questions they may have and help wi
 Code Blue means there is a minor threat within the facility that may escalate if it is not dealt with. Code Blue is active if:
 
 - The FFD terminal or Warhead laptop is hacked.
- - Code Blue is **not** active if the Warhead laptop is hacked while Warhead is locked due to being cancelled twice, or if the FFD terminal is hacked while FFD is locked.
+
+Code Blue is **not** active if the Warhead laptop is hacked while Warhead is locked due to being cancelled twice, or if the FFD terminal is hacked while FFD is locked.
 
 ### Code Orange
 Code Orange indicates a moderate threat within the facility that might require further attention.
@@ -330,7 +331,7 @@ Warnings are given out on a case-by-case basis, but below are the situations in 
 
 ### When Can I NOT Give Warnings?
 You should **NOT** give warnings for the following actions:
-1. An employee is hacking, glitching, being disrespectful/toxic, or doing any action that would generally require moderation intervention. In those cases, make a report in #report-center
+1. An employee is hacking, glitching, being disrespectful/toxic, or doing any action that would generally require moderation intervention. In those cases, make a report in [#report-center](https://discord.com/channels/781624461769703454/1220404001657585754)
 2. Someone is spamming the controls in a manner that requires said controls to be spammed.
 3. An administrator (user on the admin team) is interfering with your duties. If this happens, please report said administrator to IRD leadership.
 
@@ -339,7 +340,7 @@ You are to issue up to a minimum of three verbal warnings before you are permitt
 If an employee does something that warrants a warning, you must issue a warning to them (unless stated otherwise), so that the enforcement of warnings by all guards is fair for everyone.
 
 ## 3.3 Shift KOS
-If some employees are intentionally trying to interrupt site operations by messing around, or are attempting to melt the core, you are allowed to issue a shift KoS. Shift KoS' are active until the shift ends and they get deactivated once a new shift begins.
+If some employees are intentionally trying to interrupt site operations by messing around, or are attempting to melt the core, you are allowed to issue a shift KoS. Shift KoS' are active until the shift ends and they get deactivated once a new shift begins. When an employee is marked as KoS, they can be killed instantly on sight, **even if they don't do anything that warrants a warning**.
 
 ### When can Shift KoS be issued?
 If one of these requirements is met, you are allowed to issue a KoS:
@@ -361,12 +362,14 @@ You are **not**, unless stated otherwise, allowed to;
 6. Control the ECFR (excluding exhaust system and e-coolant controls) unless any of the below conditions are met:
    - you are cooperating with Reactor Operators
    - you are preventing the pumps from straining
-   - the "temperature low" or "temperature high" warnings on the reactor monitoring screen are active
-   - any of the red warnings on the monitoring panels is active
+   - the "temperature low" or "temperature high" annunciators on the reactor monitoring screen are active
+   - any of the red annunciators on the monitoring panels is active
+   - controlling the ECRR is necessary for safety
    - any other rules allow you to use the controls (for example the exhaust system rules)
 7. Play checkers outside of security zone.
 8. Play checkers when it is currently Code Blue+ and there are Chaos Forces present on the server.
    - You are allowed to play checkers during Code Green/Blue when there are no Chaos Forces present. **Note: You are still responsible for the safety of the facility while playing checkers.** For example, if the employees melt the ECFR because they broke the pumps while you were playing checkers, you are liable to be punished for negligence.
+9. Wear the Riot uniform, unless it's Code Orange or above.
 
 ## 3.5 R.O. Cooperation
 At any point you may ask the Reactor Operators for cooperation and confirm it when the requirements below are met.
@@ -585,9 +588,11 @@ White Night regulations are as follows;
 ## 4.3 Private Server Regulations
 
 In Private Servers, the following rules within the HSPS Handbook are voided:
-- Section 1: Rules 2, 3, and 4
+- Section 1: Rules 2, 3, 4 and 9
 - Section 2: 2.1, 2.2 and 2.3
 - Section 3: 3.1 through 3.5
 - Section 4: 4.2
 
 Even though these rules are voided, you are still expected to follow the rules put in place by the Private Server Owner that do not interfere with the non-voided rules in this handbook. If they tell you to get off team, get off team. If they tell you to not kill those who enter the FFD, don’t kill them, and so on.
+
+During official CFA raids hosted on private servers, all rules apply and none are voided, unless stated otherwise by the host or a member of Pre-Command+.
