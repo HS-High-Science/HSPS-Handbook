@@ -364,7 +364,7 @@ You are **not**, unless stated otherwise, allowed to;
    - you are preventing the pumps from straining
    - the "temperature low" or "temperature high" annunciators on the reactor monitoring screen are active
    - any of the red annunciators on the monitoring panels is active
-   - controlling the ECRR is necessary for safety
+   - controlling the ECFR is necessary for safety
    - any other rules allow you to use the controls (for example the exhaust system rules)
 7. Play checkers outside of security zone.
 8. Play checkers when it is currently Code Blue+ and there are Chaos Forces present on the server.
