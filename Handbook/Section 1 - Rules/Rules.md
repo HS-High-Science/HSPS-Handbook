@@ -44,6 +44,18 @@ This is not to be mistaken for misunderstanding the rules. It is sometimes obvio
 ## Rule 10: Notify the HSPS developers if you are planning to change your Roblox username.
 - HSPS and HSPS Manager in particular heavily rely on the database system. Upon registration, your Roblox username is saved in the database. **The username changes are not tracked automatically.** Please notify the HSPS developers of your username change **in advance** to prevent desync and other unwanted behavior.
 
+## Rule 11: No sabotaging.
+- Being a High Science Private Security operative, you should acknowledge the following:
+  1. You have joined HSPS willingly;
+  2. If you have an opinion to share about High Science Private Security, you are free to submit a [feedback](https://discord.com/channels/1258840960734072914/1335238950138413236) (non-anonymous).
+  3. If you want something within this department to be changed, you are free to submit a [suggestion](https://discord.com/channels/1258840960734072914/1258877014778052751) in the appropriate form, so the Pre-command and Command teams are able to review it and make a verdict on whether the suggested feature should be implemented or not;
+  4. If you have any questions regarding the departmental operations, you are free to [ask them](https://discord.com/channels/1258840960734072914/1258877083329888357) in the appropriate form;
+  5. You agree with all of the rules and regulations within this department;
+  6. If you do not agree with the rules or regulations within HSPS and if you are unable to suggest any changes that would make this department better for you, **you are free to leave the department at any time**;
+  7. Directing the complaints into inappropriate places, attempting to disrupt normal High Science Private Security internal operations (through riots, movements against HSPS, conspiracies and other forms of radical protests) is **strictly prohibited**.
+
+**Violating this rule will land you in a severe punishment.**
+
 
 # HS Rules
 It is important to note that HSPS Handbook inherits all of the general High Science rules. Breaching any of those rules (regardless if the breach was commited in the HS server or outside of it) will land you with a punishment in HSPS. Further, getting punished in the main server or in CPUF will also get you additional punishment in HSPS.
